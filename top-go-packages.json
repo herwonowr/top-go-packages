@@ -1,5 +1,5 @@
 {
-"last_update": "2026-05-10 05:09:41",
+"last_update": "2026-05-10 05:12:13",
 "source": "ClickHouse (GitHub stars) + awesome-go",
 "metric": "star_count",
 "metric_description": "GitHub star count. Go has no public download count API, so stars serve as the popularity proxy.",
@@ -5908,11 +5908,11 @@
 },
 {
 "star_count": 155,
-"project": "github.com/Comcast/gaad"
+"project": "github.com/gernest/alien"
 },
 {
 "star_count": 155,
-"project": "github.com/gernest/alien"
+"project": "github.com/Comcast/gaad"
 },
 {
 "star_count": 154,
@@ -6582,8 +6582,8 @@
 "total_rows": 1641,
 "rows_before_limit_at_least": 1641,
 "statistics": {
-"elapsed": 0.752138102,
-"rows_read": 46484448,
-"bytes_read": 1370117849
+"elapsed": 0.715157802,
+"rows_read": 8452311,
+"bytes_read": 269515324
 }
 }
