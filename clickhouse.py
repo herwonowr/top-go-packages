@@ -10,10 +10,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-
-AWESOME_GO_URL = (
-    "https://raw.githubusercontent.com/avelino/awesome-go/main/README.md"
-)
+AWESOME_GO_URL = "https://raw.githubusercontent.com/avelino/awesome-go/main/README.md"
 CLICKHOUSE_URL = "https://sql-clickhouse.clickhouse.com"
 
 
@@ -91,9 +88,7 @@ def reformat_clickhouse_json(input_data: dict, repos_set: set[str]) -> None:
     rows.sort(key=lambda r: r["star_count"], reverse=True)
 
     reformatted_data = {
-        "last_update": dt.datetime.now(dt.timezone.utc).strftime(
-            "%Y-%m-%d %H:%M:%S"
-        ),
+        "last_update": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M:%S"),
         "source": "ClickHouse (GitHub stars) + awesome-go",
         "metric": "star_count",
         "metric_description": (
