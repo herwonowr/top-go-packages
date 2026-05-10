@@ -23,6 +23,7 @@ lint.ignore = [
   "E221",  # Multiple spaces before operator
   "E226",  # Missing whitespace around arithmetic operator
   "E241",  # Multiple spaces after ','
+  "S110",  # try-except-pass (expected for 404s on non-Go repos)
   "S310",  # suspicious-url-open-usage
   "S608",  # hardcoded-sql-expression
 ]

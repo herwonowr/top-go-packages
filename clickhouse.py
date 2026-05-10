@@ -71,7 +71,7 @@ def fetch_go_module_path(repo: str) -> str | None:
             line = line.strip()
             if line.startswith("module "):
                 return line.split(None, 1)[1]
-    except Exception:  # noqa: BLE001
+    except Exception:
         pass
     return None
 
