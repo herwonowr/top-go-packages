@@ -23,6 +23,8 @@ jobs:
           python-version: "3.x"
 
       - name: Generate data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: bash generate.sh
 
       - name: Commit and push

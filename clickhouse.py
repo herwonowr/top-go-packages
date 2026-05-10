@@ -3,8 +3,11 @@
 # ///
 from __future__ import annotations
 
+import base64
+import concurrent.futures
 import datetime as dt
 import json
+import os
 import re
 import urllib.parse
 import urllib.request
@@ -12,6 +15,20 @@ from pathlib import Path
 
 AWESOME_GO_URL = "https://raw.githubusercontent.com/avelino/awesome-go/main/README.md"
 CLICKHOUSE_URL = "https://sql-clickhouse.clickhouse.com"
+GITHUB_API = "https://api.github.com/repos/{repo}/contents/go.mod"
+MAX_WORKERS = 20
+
+
+def _github_headers() -> dict[str, str]:
+    """Build GitHub API headers, using GITHUB_TOKEN if available."""
+    headers = {
+        "User-Agent": "top-go-packages/1.0",
+        "Accept": "application/vnd.github.v3+json",
+    }
+    token = os.environ.get("GITHUB_TOKEN", "")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    return headers
 
 
 def fetch_awesome_go_repos() -> list[str]:
@@ -28,24 +45,65 @@ def fetch_awesome_go_repos() -> list[str]:
     pattern = re.compile(r"github\.com/([a-zA-Z0-9._-]+/[a-zA-Z0-9._-]+)")
     matches = pattern.findall(content)
 
-    # Deduplicate, lowercase, filter out non-package entries
+    # Deduplicate and lowercase
     seen: set[str] = set()
     repos: list[str] = []
-    skip_prefixes = (
-        "avelino/awesome-go",
-        "awesome-go/",
-    )
     for match in matches:
         repo = match.lower().rstrip("/")
         if repo in seen:
-            continue
-        if any(repo.startswith(prefix) for prefix in skip_prefixes):
             continue
         seen.add(repo)
         repos.append(repo)
 
     print(f"Found {len(repos)} unique GitHub repos from awesome-go")
     return repos
+
+
+def fetch_go_module_path(repo: str) -> str | None:
+    """Fetch go.mod via GitHub API and return the module path, or None."""
+    url = GITHUB_API.format(repo=repo)
+    req = urllib.request.Request(url, headers=_github_headers())
+    try:
+        with urllib.request.urlopen(req, timeout=15) as response:
+            data = json.loads(response.read().decode("utf-8"))
+        content = base64.b64decode(data["content"]).decode("utf-8")
+        for line in content.splitlines():
+            line = line.strip()
+            if line.startswith("module "):
+                return line.split(None, 1)[1]
+    except Exception:  # noqa: BLE001
+        pass
+    return None
+
+
+def resolve_module_paths(repos: list[str]) -> dict[str, str]:
+    """Resolve Go module paths for all repos concurrently.
+
+    Returns a dict mapping lowercase repo name to its Go module path.
+    Repos without a valid go.mod are excluded.
+    """
+    print(f"Resolving Go module paths for {len(repos)} repos...")
+    repo_to_module: dict[str, str] = {}
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        future_to_repo = {
+            executor.submit(fetch_go_module_path, repo): repo for repo in repos
+        }
+        done = 0
+        for future in concurrent.futures.as_completed(future_to_repo):
+            repo = future_to_repo[future]
+            done += 1
+            if done % 100 == 0:
+                print(f"  resolved {done}/{len(repos)}...")
+            module_path = future.result()
+            if module_path:
+                repo_to_module[repo] = module_path
+
+    print(
+        f"Resolved {len(repo_to_module)} Go modules "
+        f"(skipped {len(repos) - len(repo_to_module)} non-Go repos)"
+    )
+    return repo_to_module
 
 
 def get_clickhouse_stars(repos: list[str]) -> str:
@@ -70,17 +128,21 @@ def get_clickhouse_stars(repos: list[str]) -> str:
     return data
 
 
-def reformat_clickhouse_json(input_data: dict, repos_set: set[str]) -> None:
-    """Reformat ClickHouse response to match top-pypi-packages structure."""
+def reformat_clickhouse_json(
+    input_data: dict,
+    repo_to_module: dict[str, str],
+) -> None:
+    """Reformat ClickHouse response using resolved Go module paths."""
     rows = []
     for row in input_data["data"]:
         repo = row["repo_name"].lower()
-        if repo not in repos_set:
+        module_path = repo_to_module.get(repo)
+        if not module_path:
             continue
         rows.append(
             {
                 "star_count": int(row["stars"]),
-                "project": f"github.com/{row['repo_name']}",
+                "project": module_path,
             }
         )
 
@@ -96,7 +158,7 @@ def reformat_clickhouse_json(input_data: dict, repos_set: set[str]) -> None:
             "so stars serve as the popularity proxy."
         ),
     }
-    # Rename rows->total_rows and data->rows (matching top-pypi-packages)
+    # Rename rows->total_rows and data->rows
     for k, v in input_data.items():
         if k == "rows":
             reformatted_data["total_rows"] = v
@@ -113,10 +175,10 @@ def reformat_clickhouse_json(input_data: dict, repos_set: set[str]) -> None:
 
 def main() -> None:
     repos = fetch_awesome_go_repos()
-    repos_set = set(repos)
-    data = get_clickhouse_stars(repos)
+    repo_to_module = resolve_module_paths(repos)
+    data = get_clickhouse_stars(list(repo_to_module.keys()))
     data = json.loads(data)
-    reformat_clickhouse_json(data, repos_set)
+    reformat_clickhouse_json(data, repo_to_module)
 
 
 if __name__ == "__main__":
