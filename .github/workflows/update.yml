@@ -46,7 +46,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           TAG=$(date '+%Y.%W')
-          if git rev-parse "$TAG" >/dev/null 2>&1; then
+          if git ls-remote --tags origin "$TAG" | grep -q "$TAG"; then
             echo "Tag $TAG already exists, skipping"
           else
             git tag -a "$TAG" -m "Release $TAG"
