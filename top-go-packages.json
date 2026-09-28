@@ -1,5 +1,5 @@
 {
-"last_update": "2026-09-21 15:03:49",
+"last_update": "2026-09-28 16:43:27",
 "source": "ClickHouse (GitHub stars) + awesome-go",
 "metric": "star_count",
 "metric_description": "GitHub star count. Go has no public download count API, so stars serve as the popularity proxy.",
@@ -15,23 +15,23 @@
 ],
 "rows": [
 {
-"star_count": 172353,
+"star_count": 172369,
 "project": "github.com/avelino/awesome-go"
 },
 {
-"star_count": 121316,
+"star_count": 121318,
 "project": "k8s.io/kubernetes"
 },
 {
-"star_count": 94962,
+"star_count": 94963,
 "project": "github.com/gin-gonic/gin"
 },
 {
-"star_count": 77962,
+"star_count": 77965,
 "project": "github.com/junegunn/fzf"
 },
 {
-"star_count": 64888,
+"star_count": 64890,
 "project": "github.com/prometheus/prometheus"
 },
 {
@@ -39,11 +39,11 @@
 "project": "github.com/ethereum/go-ethereum"
 },
 {
-"star_count": 57289,
+"star_count": 57290,
 "project": "github.com/YOUR-USER-OR-ORG-NAME/YOUR-REPO-NAME"
 },
 {
-"star_count": 55412,
+"star_count": 55417,
 "project": "gitea.dev"
 },
 {
@@ -55,11 +55,11 @@
 "project": "github.com/wagoodman/dive"
 },
 {
-"star_count": 48731,
+"star_count": 48734,
 "project": "github.com/caddyserver/caddy/v2"
 },
 {
-"star_count": 44242,
+"star_count": 44243,
 "project": "github.com/spf13/cobra"
 },
 {
@@ -67,19 +67,19 @@
 "project": "github.com/pingcap/tidb"
 },
 {
-"star_count": 41760,
+"star_count": 41761,
 "project": "github.com/gofiber/fiber/v3"
 },
 {
-"star_count": 40749,
+"star_count": 40750,
 "project": "github.com/milvus-io/milvus"
 },
 {
-"star_count": 38430,
+"star_count": 38432,
 "project": "github.com/moby/moby/v2"
 },
 {
-"star_count": 36574,
+"star_count": 36577,
 "project": "charm.land/bubbletea/v2"
 },
 {
@@ -87,11 +87,11 @@
 "project": "github.com/labstack/echo/v5"
 },
 {
-"star_count": 34739,
+"star_count": 34741,
 "project": "github.com/cockroachdb/cockroach"
 },
 {
-"star_count": 34212,
+"star_count": 34213,
 "project": "go.etcd.io/etcd/v3"
 },
 {
@@ -99,11 +99,11 @@
 "project": "k8s.io/minikube"
 },
 {
-"star_count": 33039,
+"star_count": 33041,
 "project": "github.com/schollz/croc/v11"
 },
 {
-"star_count": 31521,
+"star_count": 31522,
 "project": "github.com/derailed/k9s"
 },
 {
@@ -111,7 +111,7 @@
 "project": "github.com/ollama/ollama"
 },
 {
-"star_count": 31206,
+"star_count": 31211,
 "project": "github.com/restic/restic"
 },
 {
@@ -143,11 +143,11 @@
 "project": "github.com/tsenart/vegeta/v12"
 },
 {
-"star_count": 25730,
+"star_count": 25731,
 "project": "github.com/mudler/LocalAI"
 },
 {
-"star_count": 24963,
+"star_count": 24965,
 "project": "github.com/quii/learn-go-with-tests"
 },
 {
@@ -155,11 +155,11 @@
 "project": "github.com/valyala/fasthttp"
 },
 {
-"star_count": 24898,
+"star_count": 24899,
 "project": "go.uber.org/zap"
 },
 {
-"star_count": 24285,
+"star_count": 24287,
 "project": "github.com/abiosoft/colima"
 },
 {
@@ -171,7 +171,7 @@
 "project": "github.com/sirupsen/logrus"
 },
 {
-"star_count": 23924,
+"star_count": 23925,
 "project": "github.com/gorilla/mux"
 },
 {
@@ -187,7 +187,7 @@
 "project": "github.com/dgraph-io/dgraph/v25"
 },
 {
-"star_count": 21459,
+"star_count": 21461,
 "project": "github.com/jaegertracing/jaeger"
 },
 {
@@ -195,7 +195,7 @@
 "project": "github.com/inancgumus/learngo"
 },
 {
-"star_count": 21257,
+"star_count": 21258,
 "project": "github.com/urfave/cli/v3"
 },
 {
@@ -215,11 +215,11 @@
 "project": "github.com/antonmedv/fx"
 },
 {
-"star_count": 19880,
+"star_count": 19881,
 "project": "github.com/rakyll/hey"
 },
 {
-"star_count": 19439,
+"star_count": 19440,
 "project": "github.com/go-playground/validator/v10"
 },
 {
@@ -247,11 +247,11 @@
 "project": "github.com/golang-migrate/migrate/v4"
 },
 {
-"star_count": 17677,
+"star_count": 17678,
 "project": "github.com/bcicen/ctop"
 },
 {
-"star_count": 17335,
+"star_count": 17337,
 "project": "github.com/charmbracelet/vhs"
 },
 {
@@ -275,11 +275,11 @@
 "project": "github.com/rqlite/rqlite/v10"
 },
 {
-"star_count": 16099,
+"star_count": 16102,
 "project": "go.k6.io/k6/v2"
 },
 {
-"star_count": 16028,
+"star_count": 16029,
 "project": "go-micro.dev/v6"
 },
 {
@@ -299,11 +299,11 @@
 "project": "github.com/air-verse/air"
 },
 {
-"star_count": 15765,
+"star_count": 15766,
 "project": "github.com/tinygo-org/tinygo"
 },
 {
-"star_count": 15488,
+"star_count": 15489,
 "project": "github.com/VictoriaMetrics/VictoriaMetrics"
 },
 {
@@ -351,7 +351,7 @@
 "project": "github.com/go-task/task/v3"
 },
 {
-"star_count": 13455,
+"star_count": 13456,
 "project": "github.com/hajimehoshi/ebiten/v2"
 },
 {
@@ -399,7 +399,7 @@
 "project": "github.com/shirou/gopsutil/v4"
 },
 {
-"star_count": 11974,
+"star_count": 11978,
 "project": "github.com/cloudflare/cloudflared"
 },
 {
@@ -435,7 +435,7 @@
 "project": "github.com/drakkan/sftpgo/v2"
 },
 {
-"star_count": 11128,
+"star_count": 11129,
 "project": "github.com/go-vgo/robotgo"
 },
 {
@@ -447,7 +447,7 @@
 "project": "github.com/panjf2000/gnet/v2"
 },
 {
-"star_count": 11089,
+"star_count": 11091,
 "project": "github.com/casdoor/casdoor"
 },
 {
@@ -511,7 +511,7 @@
 "project": "github.com/sosedoff/pgweb"
 },
 {
-"star_count": 9642,
+"star_count": 9643,
 "project": "github.com/a-h/templ"
 },
 {
@@ -519,11 +519,11 @@
 "project": "github.com/mattn/go-sqlite3"
 },
 {
-"star_count": 9409,
+"star_count": 9410,
 "project": "github.com/pressly/goose/v3"
 },
 {
-"star_count": 9323,
+"star_count": 9324,
 "project": "github.com/codenotary/immudb"
 },
 {
@@ -611,7 +611,7 @@
 "project": "github.com/RichardKnop/machinery"
 },
 {
-"star_count": 8250,
+"star_count": 8251,
 "project": "go.etcd.io/bbolt"
 },
 {
@@ -635,7 +635,7 @@
 "project": "github.com/cloudwego/kitex"
 },
 {
-"star_count": 7823,
+"star_count": 7825,
 "project": "github.com/boyter/scc/v4"
 },
 {
@@ -643,16 +643,16 @@
 "project": "github.com/odeke-em/drive"
 },
 {
-"star_count": 7660,
+"star_count": 7663,
 "project": "github.com/axllent/mailpit"
+},
+{
+"star_count": 7655,
+"project": "github.com/anchore/syft"
 },
 {
 "star_count": 7654,
 "project": "github.com/dunglas/frankenphp"
-},
-{
-"star_count": 7654,
-"project": "github.com/anchore/syft"
 },
 {
 "star_count": 7572,
@@ -667,7 +667,7 @@
 "project": "github.com/tmc/langchaingo"
 },
 {
-"star_count": 7388,
+"star_count": 7390,
 "project": "ariga.io/atlas"
 },
 {
@@ -695,7 +695,7 @@
 "project": "github.com/pdfcpu/pdfcpu"
 },
 {
-"star_count": 7212,
+"star_count": 7213,
 "project": "github.com/evrone/go-clean-template"
 },
 {
@@ -719,7 +719,7 @@
 "project": "github.com/elazarl/goproxy"
 },
 {
-"star_count": 6964,
+"star_count": 6965,
 "project": "github.com/go-git/go-git/v6"
 },
 {
@@ -771,7 +771,7 @@
 "project": "github.com/asaskevich/govalidator/v12"
 },
 {
-"star_count": 6671,
+"star_count": 6672,
 "project": "github.com/cloudwego/hertz"
 },
 {
@@ -787,7 +787,7 @@
 "project": "github.com/gomodule/redigo"
 },
 {
-"star_count": 6569,
+"star_count": 6570,
 "project": "github.com/go-co-op/gocron/v2"
 },
 {
@@ -803,7 +803,7 @@
 "project": "github.com/cloudquery/cloudquery/v6"
 },
 {
-"star_count": 6433,
+"star_count": 6434,
 "project": "github.com/mark3labs/mcp-go"
 },
 {
@@ -815,7 +815,7 @@
 "project": "github.com/anacrolix/torrent"
 },
 {
-"star_count": 6371,
+"star_count": 6372,
 "project": "github.com/amacneil/dbmate/v2"
 },
 {
@@ -875,7 +875,7 @@
 "project": "github.com/achannarasappa/ticker/v5"
 },
 {
-"star_count": 5936,
+"star_count": 5937,
 "project": "github.com/authzed/spicedb"
 },
 {
@@ -907,7 +907,7 @@
 "project": "github.com/foxcpp/maddy"
 },
 {
-"star_count": 5680,
+"star_count": 5681,
 "project": "github.com/redis/go-redis/v9"
 },
 {
@@ -943,7 +943,7 @@
 "project": "github.com/nsf/termbox-go"
 },
 {
-"star_count": 5396,
+"star_count": 5398,
 "project": "github.com/fleetdm/fleet/v4"
 },
 {
@@ -1027,7 +1027,7 @@
 "project": "github.com/oklog/ulid/v2"
 },
 {
-"star_count": 4938,
+"star_count": 4939,
 "project": "github.com/arduino/arduino-cli"
 },
 {
@@ -1047,7 +1047,7 @@
 "project": "github.com/dropbox/godropbox"
 },
 {
-"star_count": 4837,
+"star_count": 4838,
 "project": "github.com/imroc/req/v3"
 },
 {
@@ -1095,7 +1095,7 @@
 "project": "github.com/xtaci/kcp-go/v5"
 },
 {
-"star_count": 4539,
+"star_count": 4540,
 "project": "github.com/yuin/goldmark/v2"
 },
 {
@@ -1103,7 +1103,7 @@
 "project": "github.com/ktr0731/evans"
 },
 {
-"star_count": 4480,
+"star_count": 4481,
 "project": "github.com/cloudwego/netpoll"
 },
 {
@@ -1175,11 +1175,11 @@
 "project": "github.com/gliderlabs/ssh"
 },
 {
-"star_count": 4133,
+"star_count": 4135,
 "project": "github.com/openfga/openfga"
 },
 {
-"star_count": 4126,
+"star_count": 4127,
 "project": "github.com/garethgeorge/backrest"
 },
 {
@@ -1207,7 +1207,7 @@
 "project": "github.com/jasonlvhit/gocron"
 },
 {
-"star_count": 3944,
+"star_count": 3945,
 "project": "github.com/oam-dev/kubevela"
 },
 {
@@ -1251,12 +1251,12 @@
 "project": "github.com/cshum/imagor"
 },
 {
-"star_count": 3817,
-"project": "github.com/d5/tengo/v2"
+"star_count": 3818,
+"project": "github.com/getfider/fider"
 },
 {
 "star_count": 3817,
-"project": "github.com/getfider/fider"
+"project": "github.com/d5/tengo/v2"
 },
 {
 "star_count": 3814,
@@ -1299,7 +1299,7 @@
 "project": "github.com/ledisdb/ledisdb"
 },
 {
-"star_count": 3583,
+"star_count": 3585,
 "project": "github.com/Ullaakut/cameradar/v6"
 },
 {
@@ -1427,7 +1427,7 @@
 "project": "github.com/go-mysql-org/go-mysql"
 },
 {
-"star_count": 3040,
+"star_count": 3041,
 "project": "github.com/samber/mo"
 },
 {
@@ -1495,7 +1495,7 @@
 "project": "github.com/topfreegames/pitaya/v3"
 },
 {
-"star_count": 2837,
+"star_count": 2838,
 "project": "github.com/k3d-io/k3d/v5"
 },
 {
@@ -1583,7 +1583,7 @@
 "project": "github.com/kisielk/errcheck"
 },
 {
-"star_count": 2602,
+"star_count": 2603,
 "project": "go.uber.org/mock"
 },
 {
@@ -1615,7 +1615,7 @@
 "project": "github.com/johnfercher/maroto/v2"
 },
 {
-"star_count": 2557,
+"star_count": 2558,
 "project": "github.com/hashicorp/go-multierror"
 },
 {
@@ -1759,7 +1759,7 @@
 "project": "github.com/smallnest/go-web-framework-benchmark"
 },
 {
-"star_count": 2293,
+"star_count": 2294,
 "project": "github.com/cockroachdb/errors"
 },
 {
@@ -1855,7 +1855,7 @@
 "project": "github.com/spiffe/spire"
 },
 {
-"star_count": 2097,
+"star_count": 2098,
 "project": "github.com/jarcoal/httpmock"
 },
 {
@@ -1987,7 +1987,7 @@
 "project": "github.com/Rhymond/go-money"
 },
 {
-"star_count": 1894,
+"star_count": 1895,
 "project": "github.com/failsafe-go/failsafe-go"
 },
 {
@@ -2239,7 +2239,7 @@
 "project": "github.com/georgysavva/scany/v2"
 },
 {
-"star_count": 1491,
+"star_count": 1493,
 "project": "github.com/CloudyKit/jet/v6"
 },
 {
@@ -2528,11 +2528,11 @@
 },
 {
 "star_count": 1165,
-"project": "github.com/godbus/dbus/v5"
+"project": "github.com/krotik/eliasdb"
 },
 {
-"star_count": 1164,
-"project": "github.com/krotik/eliasdb"
+"star_count": 1165,
+"project": "github.com/godbus/dbus/v5"
 },
 {
 "star_count": 1159,
@@ -2563,7 +2563,7 @@
 "project": "github.com/lotusdblabs/lotusdb/v2"
 },
 {
-"star_count": 1144,
+"star_count": 1145,
 "project": "github.com/wneessen/go-mail"
 },
 {
@@ -2671,7 +2671,7 @@
 "project": "github.com/lmittmann/tint"
 },
 {
-"star_count": 1035,
+"star_count": 1036,
 "project": "github.com/brandonyoungdev/tldx"
 },
 {
@@ -3075,16 +3075,16 @@
 "project": "github.com/antchfx/xpath"
 },
 {
-"star_count": 754,
+"star_count": 756,
 "project": "github.com/cinar/indicator/v2"
 },
 {
 "star_count": 753,
-"project": "github.com/consbio/mbtileserver"
+"project": "github.com/contentsquare/chproxy"
 },
 {
 "star_count": 753,
-"project": "github.com/contentsquare/chproxy"
+"project": "github.com/consbio/mbtileserver"
 },
 {
 "star_count": 749,
@@ -3100,11 +3100,11 @@
 },
 {
 "star_count": 738,
-"project": "kool-dev/kool"
+"project": "github.com/jcuga/golongpoll"
 },
 {
 "star_count": 738,
-"project": "github.com/jcuga/golongpoll"
+"project": "kool-dev/kool"
 },
 {
 "star_count": 737,
@@ -3200,11 +3200,11 @@
 },
 {
 "star_count": 689,
-"project": "github.com/goccmack/gocc"
+"project": "github.com/akamensky/argparse"
 },
 {
 "star_count": 689,
-"project": "github.com/akamensky/argparse"
+"project": "github.com/goccmack/gocc"
 },
 {
 "star_count": 688,
@@ -3268,11 +3268,11 @@
 },
 {
 "star_count": 647,
-"project": "github.com/qustavo/dotsql"
+"project": "github.com/o1egl/govatar"
 },
 {
 "star_count": 647,
-"project": "github.com/o1egl/govatar"
+"project": "github.com/qustavo/dotsql"
 },
 {
 "star_count": 643,
@@ -3340,18 +3340,18 @@
 },
 {
 "star_count": 614,
-"project": "github.com/gookit/config/v2"
+"project": "github.com/asticode/go-astits"
 },
 {
 "star_count": 614,
-"project": "github.com/asticode/go-astits"
+"project": "github.com/gookit/config/v2"
 },
 {
 "star_count": 608,
 "project": "github.com/golobby/container/v3"
 },
 {
-"star_count": 604,
+"star_count": 605,
 "project": "github.com/fabriziosalmi/caddy-waf"
 },
 {
@@ -3528,11 +3528,11 @@
 },
 {
 "star_count": 521,
-"project": "github.com/dennwc/dom"
+"project": "github.com/foolin/goview"
 },
 {
 "star_count": 521,
-"project": "github.com/foolin/goview"
+"project": "github.com/dennwc/dom"
 },
 {
 "star_count": 520,
@@ -3592,11 +3592,11 @@
 },
 {
 "star_count": 500,
-"project": "github.com/dtylman/gowd"
+"project": "github.com/lingrino/go-fault"
 },
 {
 "star_count": 500,
-"project": "github.com/lingrino/go-fault"
+"project": "github.com/dtylman/gowd"
 },
 {
 "star_count": 498,
@@ -3644,11 +3644,11 @@
 },
 {
 "star_count": 477,
-"project": "github.com/ChainSafe/gossamer"
+"project": "github.com/adhocore/gronx"
 },
 {
 "star_count": 477,
-"project": "github.com/adhocore/gronx"
+"project": "github.com/ChainSafe/gossamer"
 },
 {
 "star_count": 476,
@@ -3672,11 +3672,11 @@
 },
 {
 "star_count": 470,
-"project": "github.com/paololazzari/play"
+"project": "github.com/AllenDang/cimgui-go"
 },
 {
 "star_count": 470,
-"project": "github.com/AllenDang/cimgui-go"
+"project": "github.com/paololazzari/play"
 },
 {
 "star_count": 469,
@@ -3692,11 +3692,11 @@
 },
 {
 "star_count": 463,
-"project": "github.com/liweiyi88/onedump"
+"project": "github.com/nao1215/gup"
 },
 {
 "star_count": 463,
-"project": "github.com/nao1215/gup"
+"project": "github.com/liweiyi88/onedump"
 },
 {
 "star_count": 463,
@@ -3716,11 +3716,11 @@
 },
 {
 "star_count": 457,
-"project": "github.com/volodymyrprokopyuk/go-blockchain"
+"project": "github.com/maxatome/go-testdeep"
 },
 {
 "star_count": 457,
-"project": "github.com/maxatome/go-testdeep"
+"project": "github.com/volodymyrprokopyuk/go-blockchain"
 },
 {
 "star_count": 454,
@@ -3740,11 +3740,11 @@
 },
 {
 "star_count": 450,
-"project": "github.com/xuri/aurora"
+"project": "github.com/plar/go-adaptive-radix-tree/v2"
 },
 {
 "star_count": 450,
-"project": "github.com/plar/go-adaptive-radix-tree/v2"
+"project": "github.com/xuri/aurora"
 },
 {
 "star_count": 447,
@@ -3824,11 +3824,11 @@
 },
 {
 "star_count": 421,
-"project": "github.com/cstockton/go-conv"
+"project": "github.com/DylanMeeus/GoAudio"
 },
 {
 "star_count": 421,
-"project": "github.com/DylanMeeus/GoAudio"
+"project": "github.com/cstockton/go-conv"
 },
 {
 "star_count": 420,
@@ -3972,15 +3972,15 @@
 },
 {
 "star_count": 371,
-"project": "github.com/trickstercache/trickster/v2"
-},
-{
-"star_count": 371,
 "project": "github.com/JeremyLoy/config"
 },
 {
 "star_count": 371,
 "project": "github.com/kamilsk/retry/v5"
+},
+{
+"star_count": 371,
+"project": "github.com/trickstercache/trickster/v2"
 },
 {
 "star_count": 370,
@@ -3992,15 +3992,15 @@
 },
 {
 "star_count": 368,
+"project": "github.com/mibk/dupl"
+},
+{
+"star_count": 368,
 "project": "github.com/seborama/fuego/v12"
 },
 {
 "star_count": 368,
 "project": "github.com/ungerik/go3d"
-},
-{
-"star_count": 368,
-"project": "github.com/mibk/dupl"
 },
 {
 "star_count": 367,
@@ -4036,11 +4036,11 @@
 },
 {
 "star_count": 362,
-"project": "github.com/gopxl/pixel/v2"
+"project": "github.com/perimeterx/marshmallow"
 },
 {
 "star_count": 362,
-"project": "github.com/perimeterx/marshmallow"
+"project": "github.com/gopxl/pixel/v2"
 },
 {
 "star_count": 361,
@@ -4048,11 +4048,11 @@
 },
 {
 "star_count": 359,
-"project": "go.uber.org/cadence"
+"project": "github.com/nitishm/go-rejson/v4"
 },
 {
 "star_count": 359,
-"project": "github.com/nitishm/go-rejson/v4"
+"project": "go.uber.org/cadence"
 },
 {
 "star_count": 358,
@@ -4076,11 +4076,11 @@
 },
 {
 "star_count": 354,
-"project": "github.com/ferama/rospo"
+"project": "github.com/Code-Hex/Neo-cowsay/v2"
 },
 {
 "star_count": 354,
-"project": "github.com/Code-Hex/Neo-cowsay/v2"
+"project": "github.com/ferama/rospo"
 },
 {
 "star_count": 353,
@@ -4147,7 +4147,7 @@
 "project": "github.com/hjson/hjson-go/v4"
 },
 {
-"star_count": 332,
+"star_count": 333,
 "project": "github.com/nil-go/konf"
 },
 {
@@ -4172,11 +4172,11 @@
 },
 {
 "star_count": 325,
-"project": "github.com/HugoSmits86/nativewebp"
+"project": "github.com/Yiling-J/theine-go"
 },
 {
 "star_count": 325,
-"project": "github.com/Yiling-J/theine-go"
+"project": "github.com/HugoSmits86/nativewebp"
 },
 {
 "star_count": 324,
@@ -4208,11 +4208,15 @@
 },
 {
 "star_count": 316,
-"project": "github.com/balerter/balerter"
+"project": "github.com/taskctl/taskctl"
 },
 {
 "star_count": 316,
 "project": "github.com/Eyevinn/mp4ff"
+},
+{
+"star_count": 316,
+"project": "github.com/balerter/balerter"
 },
 {
 "star_count": 312,
@@ -4232,15 +4236,7 @@
 },
 {
 "star_count": 308,
-"project": "github.com/taskctl/taskctl"
-},
-{
-"star_count": 308,
 "project": "github.com/viant/endly"
-},
-{
-"star_count": 304,
-"project": "github.com/s0rg/crawley"
 },
 {
 "star_count": 304,
@@ -4249,6 +4245,10 @@
 {
 "star_count": 304,
 "project": "github.com/onrik/ethrpc"
+},
+{
+"star_count": 304,
+"project": "github.com/s0rg/crawley"
 },
 {
 "star_count": 303,
@@ -4380,11 +4380,11 @@
 },
 {
 "star_count": 278,
-"project": "github.com/timandy/routine"
+"project": "github.com/reugn/wifiqr"
 },
 {
 "star_count": 278,
-"project": "github.com/reugn/wifiqr"
+"project": "github.com/timandy/routine"
 },
 {
 "star_count": 274,
@@ -4552,11 +4552,11 @@
 },
 {
 "star_count": 237,
-"project": "github.com/yaa110/go-persian-calendar"
+"project": "github.com/go-lark/lark"
 },
 {
 "star_count": 237,
-"project": "github.com/go-lark/lark"
+"project": "github.com/yaa110/go-persian-calendar"
 },
 {
 "star_count": 235,
@@ -4584,11 +4584,11 @@
 },
 {
 "star_count": 226,
-"project": "github.com/hypebeast/go-osc"
+"project": "github.com/cswank/kcli"
 },
 {
 "star_count": 226,
-"project": "github.com/cswank/kcli"
+"project": "github.com/hypebeast/go-osc"
 },
 {
 "star_count": 225,
@@ -4616,11 +4616,11 @@
 },
 {
 "star_count": 221,
-"project": "github.com/invopop/gobl"
+"project": "github.com/assafmo/joincap"
 },
 {
 "star_count": 221,
-"project": "github.com/assafmo/joincap"
+"project": "github.com/invopop/gobl"
 },
 {
 "star_count": 221,
@@ -4704,11 +4704,11 @@
 },
 {
 "star_count": 206,
-"project": "github.com/edwingeng/deque"
+"project": "github.com/chenmingyong0423/go-mongox/v2"
 },
 {
 "star_count": 206,
-"project": "github.com/chenmingyong0423/go-mongox/v2"
+"project": "github.com/edwingeng/deque"
 },
 {
 "star_count": 205,
@@ -4736,11 +4736,11 @@
 },
 {
 "star_count": 201,
-"project": "github.com/hidevopsio/hiboot"
+"project": "github.com/agnivade/wasmbrowsertest"
 },
 {
 "star_count": 201,
-"project": "github.com/agnivade/wasmbrowsertest"
+"project": "github.com/hidevopsio/hiboot"
 },
 {
 "star_count": 199,
@@ -4752,7 +4752,7 @@
 },
 {
 "star_count": 199,
-"project": "github.com/wendigo/go-bind-plugin"
+"project": "github.com/gowebapi/webapi"
 },
 {
 "star_count": 199,
@@ -4760,7 +4760,7 @@
 },
 {
 "star_count": 199,
-"project": "github.com/gowebapi/webapi"
+"project": "github.com/wendigo/go-bind-plugin"
 },
 {
 "star_count": 199,
@@ -4852,23 +4852,15 @@
 },
 {
 "star_count": 179,
+"project": "github.com/heedy/heedy"
+},
+{
+"star_count": 179,
 "project": "github.com/jaffee/commandeer"
 },
 {
 "star_count": 179,
 "project": "github.com/whitaker-io/machine/v3"
-},
-{
-"star_count": 179,
-"project": "github.com/heedy/heedy"
-},
-{
-"star_count": 178,
-"project": "github.com/ydb-platform/ydb-go-sdk/v3"
-},
-{
-"star_count": 178,
-"project": "github.com/gabstv/go-bsdiff"
 },
 {
 "star_count": 178,
@@ -4877,6 +4869,14 @@
 {
 "star_count": 178,
 "project": "github.com/masterzen/winrm-cli"
+},
+{
+"star_count": 178,
+"project": "github.com/gabstv/go-bsdiff"
+},
+{
+"star_count": 178,
+"project": "github.com/ydb-platform/ydb-go-sdk/v3"
 },
 {
 "star_count": 177,
@@ -4900,15 +4900,15 @@
 },
 {
 "star_count": 176,
+"project": "github.com/rhnvrm/simples3"
+},
+{
+"star_count": 176,
 "project": "github.com/wit-ai/wit-go/v2"
 },
 {
 "star_count": 176,
 "project": "github.com/golobby/orm"
-},
-{
-"star_count": 176,
-"project": "github.com/rhnvrm/simples3"
 },
 {
 "star_count": 176,
@@ -4936,11 +4936,11 @@
 },
 {
 "star_count": 173,
-"project": "github.com/neilotoole/errgroup"
+"project": "github.com/andygrunwald/go-trending"
 },
 {
 "star_count": 173,
-"project": "github.com/andygrunwald/go-trending"
+"project": "github.com/neilotoole/errgroup"
 },
 {
 "star_count": 172,
@@ -5032,11 +5032,11 @@
 },
 {
 "star_count": 163,
-"project": "github.com/go-sigma/sigma"
+"project": "github.com/pokanop/nostromo"
 },
 {
 "star_count": 163,
-"project": "github.com/pokanop/nostromo"
+"project": "github.com/go-sigma/sigma"
 },
 {
 "star_count": 162,
@@ -5052,11 +5052,11 @@
 },
 {
 "star_count": 161,
-"project": "github.com/peterstace/simplefeatures"
+"project": "github.com/plandem/xlsx"
 },
 {
 "star_count": 161,
-"project": "github.com/plandem/xlsx"
+"project": "github.com/peterstace/simplefeatures"
 },
 {
 "star_count": 160,
@@ -5076,11 +5076,11 @@
 },
 {
 "star_count": 157,
-"project": "github.com/commander-cli/commander/v2"
+"project": "github.com/liujianping/job"
 },
 {
 "star_count": 157,
-"project": "github.com/liujianping/job"
+"project": "github.com/commander-cli/commander/v2"
 },
 {
 "star_count": 156,
@@ -5128,11 +5128,11 @@
 },
 {
 "star_count": 150,
-"project": "github.com/DylanMeeus/hasgo"
+"project": "github.com/fabiocicerchia/go-proxy-cache"
 },
 {
 "star_count": 150,
-"project": "github.com/fabiocicerchia/go-proxy-cache"
+"project": "github.com/DylanMeeus/hasgo"
 },
 {
 "star_count": 149,
@@ -5160,11 +5160,11 @@
 },
 {
 "star_count": 147,
-"project": "github.com/relvacode/iso8601"
+"project": "github.com/artonge/go-csv-tag/v2"
 },
 {
 "star_count": 147,
-"project": "github.com/artonge/go-csv-tag/v2"
+"project": "github.com/relvacode/iso8601"
 },
 {
 "star_count": 146,
@@ -5272,15 +5272,15 @@
 },
 {
 "star_count": 137,
-"project": "github.com/mantil-io/mantil"
-},
-{
-"star_count": 137,
 "project": "github.com/mr-linch/go-tg"
 },
 {
 "star_count": 137,
 "project": "github.com/SimonWaldherr/golang-benchmarks"
+},
+{
+"star_count": 137,
+"project": "github.com/mantil-io/mantil"
 },
 {
 "star_count": 137,
@@ -5324,11 +5324,11 @@
 },
 {
 "star_count": 131,
-"project": "github.com/bebop/poly"
+"project": "github.com/galeone/igor"
 },
 {
 "star_count": 131,
-"project": "github.com/galeone/igor"
+"project": "github.com/bebop/poly"
 },
 {
 "star_count": 130,
@@ -5348,19 +5348,19 @@
 },
 {
 "star_count": 128,
-"project": "github.com/brianvoe/sjwt"
-},
-{
-"star_count": 128,
 "project": "github.com/bzick/tokenizer"
 },
 {
-"star_count": 127,
-"project": "github.com/baalimago/wd-41"
+"star_count": 128,
+"project": "github.com/brianvoe/sjwt"
 },
 {
 "star_count": 127,
 "project": "github.com/nbari/violetear/v7"
+},
+{
+"star_count": 127,
+"project": "github.com/baalimago/wd-41"
 },
 {
 "star_count": 126,
@@ -5388,11 +5388,11 @@
 },
 {
 "star_count": 124,
-"project": "github.com/reeflective/readline"
+"project": "github.com/kamilsk/breaker"
 },
 {
 "star_count": 124,
-"project": "github.com/kamilsk/breaker"
+"project": "github.com/reeflective/readline"
 },
 {
 "star_count": 123,
@@ -5440,11 +5440,11 @@
 },
 {
 "star_count": 118,
-"project": "github.com/2ykwang/mac-cleanup-go"
+"project": "github.com/mmalcek/bafi"
 },
 {
 "star_count": 118,
-"project": "github.com/mmalcek/bafi"
+"project": "github.com/2ykwang/mac-cleanup-go"
 },
 {
 "star_count": 117,
@@ -5544,11 +5544,11 @@
 },
 {
 "star_count": 111,
-"project": "github.com/e154/smart-home"
+"project": "github.com/xhit/go-str2duration/v2"
 },
 {
 "star_count": 111,
-"project": "github.com/xhit/go-str2duration/v2"
+"project": "github.com/e154/smart-home"
 },
 {
 "star_count": 110,
@@ -5620,11 +5620,11 @@
 },
 {
 "star_count": 107,
-"project": "github.com/lingrino/vaku/v2"
+"project": "github.com/enterpilot/gomodel"
 },
 {
 "star_count": 107,
-"project": "github.com/enterpilot/gomodel"
+"project": "github.com/lingrino/vaku/v2"
 },
 {
 "star_count": 105,
@@ -5632,11 +5632,11 @@
 },
 {
 "star_count": 105,
-"project": "github.com/pioz/faker"
+"project": "github.com/grijul/otpgen"
 },
 {
 "star_count": 105,
-"project": "github.com/grijul/otpgen"
+"project": "github.com/pioz/faker"
 },
 {
 "star_count": 104,
@@ -5648,15 +5648,15 @@
 },
 {
 "star_count": 104,
+"project": "github.com/s0rg/decompose"
+},
+{
+"star_count": 104,
 "project": "github.com/tannerryan/ring"
 },
 {
 "star_count": 104,
 "project": "github.com/goxjs/glfw"
-},
-{
-"star_count": 104,
-"project": "github.com/s0rg/decompose"
 },
 {
 "star_count": 103,
@@ -5676,15 +5676,11 @@
 },
 {
 "star_count": 101,
-"project": "github.com/lrita/cmap"
+"project": "github.com/primetalk/goio"
 },
 {
 "star_count": 101,
-"project": "github.com/muyo/sno"
-},
-{
-"star_count": 101,
-"project": "github.com/aaronjan/hunch"
+"project": "github.com/jameycribbs/hare"
 },
 {
 "star_count": 101,
@@ -5692,11 +5688,15 @@
 },
 {
 "star_count": 101,
-"project": "github.com/primetalk/goio"
+"project": "github.com/aaronjan/hunch"
 },
 {
 "star_count": 101,
-"project": "github.com/jameycribbs/hare"
+"project": "github.com/muyo/sno"
+},
+{
+"star_count": 101,
+"project": "github.com/lrita/cmap"
 },
 {
 "star_count": 100,
@@ -5708,11 +5708,11 @@
 },
 {
 "star_count": 99,
-"project": "go.knocknote.io/octillery"
+"project": "github.com/karl-cardenas-coding/go-lambda-cleanup/v2"
 },
 {
 "star_count": 99,
-"project": "github.com/karl-cardenas-coding/go-lambda-cleanup/v2"
+"project": "go.knocknote.io/octillery"
 },
 {
 "star_count": 98,
@@ -5736,11 +5736,11 @@
 },
 {
 "star_count": 97,
-"project": "github.com/romshark/jscan/v2"
+"project": "github.com/goptics/varmq"
 },
 {
 "star_count": 97,
-"project": "github.com/goptics/varmq"
+"project": "github.com/romshark/jscan/v2"
 },
 {
 "star_count": 96,
@@ -5756,11 +5756,11 @@
 },
 {
 "star_count": 96,
-"project": "github.com/opensaucerer/barf"
+"project": "github.com/HereMobilityDevelopers/mediary"
 },
 {
 "star_count": 96,
-"project": "github.com/HereMobilityDevelopers/mediary"
+"project": "github.com/opensaucerer/barf"
 },
 {
 "star_count": 96,
@@ -5784,6 +5784,10 @@
 },
 {
 "star_count": 94,
+"project": "github.com/alwindoss/morse"
+},
+{
+"star_count": 94,
 "project": "github.com/elgohr/go-localstack"
 },
 {
@@ -5793,10 +5797,6 @@
 {
 "star_count": 94,
 "project": "github.com/blevesearch/segment"
-},
-{
-"star_count": 94,
-"project": "github.com/alwindoss/morse"
 },
 {
 "star_count": 93,
@@ -5832,11 +5832,11 @@
 },
 {
 "star_count": 92,
-"project": "github.com/gaissmai/bart"
+"project": "github.com/go-zoox/fetch"
 },
 {
 "star_count": 92,
-"project": "github.com/go-zoox/fetch"
+"project": "github.com/gaissmai/bart"
 },
 {
 "star_count": 91,
@@ -5868,11 +5868,7 @@
 },
 {
 "star_count": 90,
-"project": "github.com/anatol/luks.go"
-},
-{
-"star_count": 90,
-"project": "github.com/reugn/equalizer"
+"project": "github.com/IGLOU-EU/go-wildcard/v2"
 },
 {
 "star_count": 90,
@@ -5880,7 +5876,11 @@
 },
 {
 "star_count": 90,
-"project": "github.com/IGLOU-EU/go-wildcard/v2"
+"project": "github.com/reugn/equalizer"
+},
+{
+"star_count": 90,
+"project": "github.com/anatol/luks.go"
 },
 {
 "star_count": 89,
@@ -5892,11 +5892,11 @@
 },
 {
 "star_count": 88,
-"project": "github.com/timsolov/rest-query-parser"
+"project": "github.com/Guitarbum722/align"
 },
 {
 "star_count": 88,
-"project": "github.com/BrianLeishman/go-imap"
+"project": "github.com/VividCortex/pm"
 },
 {
 "star_count": 88,
@@ -5908,11 +5908,15 @@
 },
 {
 "star_count": 88,
-"project": "github.com/Guitarbum722/align"
+"project": "github.com/BrianLeishman/go-imap"
 },
 {
 "star_count": 88,
-"project": "github.com/VividCortex/pm"
+"project": "github.com/timsolov/rest-query-parser"
+},
+{
+"star_count": 87,
+"project": "github.com/tarmac-project/tarmac"
 },
 {
 "star_count": 87,
@@ -5921,10 +5925,6 @@
 {
 "star_count": 87,
 "project": "github.com/napsy/go-css"
-},
-{
-"star_count": 87,
-"project": "github.com/tarmac-project/tarmac"
 },
 {
 "star_count": 87,
@@ -5948,15 +5948,15 @@
 },
 {
 "star_count": 86,
+"project": "github.com/invopop/ctxi18n"
+},
+{
+"star_count": 86,
 "project": "github.com/TheCreeper/go-notify"
 },
 {
 "star_count": 86,
 "project": "github.com/philips-labs/spiffe-vault"
-},
-{
-"star_count": 86,
-"project": "github.com/invopop/ctxi18n"
 },
 {
 "star_count": 85,
@@ -5968,11 +5968,11 @@
 },
 {
 "star_count": 85,
-"project": "github.com/sonh/qs"
+"project": "github.com/kak-tus/nan"
 },
 {
 "star_count": 85,
-"project": "github.com/kak-tus/nan"
+"project": "github.com/sonh/qs"
 },
 {
 "star_count": 84,
@@ -6044,7 +6044,7 @@
 },
 {
 "star_count": 80,
-"project": "github.com/arch-go/arch-go/v2"
+"project": "github.com/arl/go-rquad"
 },
 {
 "star_count": 80,
@@ -6052,7 +6052,7 @@
 },
 {
 "star_count": 80,
-"project": "github.com/arl/go-rquad"
+"project": "github.com/arch-go/arch-go/v2"
 },
 {
 "star_count": 79,
@@ -6088,7 +6088,7 @@
 },
 {
 "star_count": 78,
-"project": "github.com/dimuska139/go-email-normalizer/v5"
+"project": "github.com/codemodus/chain/v2"
 },
 {
 "star_count": 78,
@@ -6096,7 +6096,7 @@
 },
 {
 "star_count": 78,
-"project": "github.com/codemodus/chain/v2"
+"project": "github.com/dimuska139/go-email-normalizer/v5"
 },
 {
 "star_count": 77,
@@ -6116,11 +6116,11 @@
 },
 {
 "star_count": 77,
-"project": "github.com/nikolaydubina/jsonl-graph"
+"project": "pkg.venceslau.dev/ynab"
 },
 {
 "star_count": 77,
-"project": "pkg.venceslau.dev/ynab"
+"project": "github.com/nikolaydubina/jsonl-graph"
 },
 {
 "star_count": 75,
@@ -6128,7 +6128,7 @@
 },
 {
 "star_count": 75,
-"project": "github.com/mbvlabs/andurel"
+"project": "github.com/mbvlabs/andurel/v2"
 },
 {
 "star_count": 74,
@@ -6232,11 +6232,11 @@
 },
 {
 "star_count": 69,
-"project": "github.com/gogpu/ui"
+"project": "github.com/bartventer/gorm-multitenancy/v8"
 },
 {
 "star_count": 69,
-"project": "github.com/bartventer/gorm-multitenancy/v8"
+"project": "github.com/gogpu/ui"
 },
 {
 "star_count": 68,
@@ -6280,15 +6280,23 @@
 },
 {
 "star_count": 67,
-"project": "github.com/sanketplus/go-mysql-lock"
+"project": "github.com/openrundev/openrun"
 },
 {
 "star_count": 67,
-"project": "github.com/openrundev/openrun"
+"project": "github.com/sanketplus/go-mysql-lock"
 },
 {
 "star_count": 66,
 "project": "github.com/jutkko/copy-pasta"
+},
+{
+"star_count": 66,
+"project": "github.com/jexia/semaphore/v2"
+},
+{
+"star_count": 66,
+"project": "github.com/icza/minquery"
 },
 {
 "star_count": 66,
@@ -6297,14 +6305,6 @@
 {
 "star_count": 66,
 "project": "github.com/icza/backscanner"
-},
-{
-"star_count": 66,
-"project": "github.com/icza/minquery"
-},
-{
-"star_count": 66,
-"project": "github.com/jexia/semaphore/v2"
 },
 {
 "star_count": 66,
@@ -6348,7 +6348,11 @@
 },
 {
 "star_count": 64,
-"project": "github.com/dukex/mixpanel"
+"project": "github.com/grindlemire/go-tui"
+},
+{
+"star_count": 64,
+"project": "github.com/go-furnace/go-furnace"
 },
 {
 "star_count": 64,
@@ -6356,7 +6360,7 @@
 },
 {
 "star_count": 64,
-"project": "github.com/go-furnace/go-furnace"
+"project": "github.com/dukex/mixpanel"
 },
 {
 "star_count": 63,
@@ -6368,7 +6372,7 @@
 },
 {
 "star_count": 63,
-"project": "github.com/grindlemire/go-tui"
+"project": "github.com/ztrue/shutdown"
 },
 {
 "star_count": 63,
@@ -6376,15 +6380,11 @@
 },
 {
 "star_count": 63,
-"project": "github.com/ztrue/shutdown"
+"project": "github.com/blind-oracle/psql-streamer"
 },
 {
 "star_count": 63,
 "project": "github.com/caarlos0/log"
-},
-{
-"star_count": 63,
-"project": "github.com/blind-oracle/psql-streamer"
 },
 {
 "star_count": 63,
@@ -6448,15 +6448,15 @@
 },
 {
 "star_count": 59,
+"project": "github.com/nishanths/go-xkcd/v2"
+},
+{
+"star_count": 59,
 "project": "github.com/leancodebox/GooseForum"
 },
 {
 "star_count": 59,
 "project": "github.com/dirkaholic/kyoo"
-},
-{
-"star_count": 59,
-"project": "github.com/nishanths/go-xkcd/v2"
 },
 {
 "star_count": 58,
@@ -6488,6 +6488,14 @@
 },
 {
 "star_count": 57,
+"project": "github.com/psampaz/slice"
+},
+{
+"star_count": 57,
+"project": "github.com/mehanizm/iuliia-go"
+},
+{
+"star_count": 57,
 "project": "github.com/0xcafed00d/joystick"
 },
 {
@@ -6504,15 +6512,11 @@
 },
 {
 "star_count": 57,
-"project": "github.com/mehanizm/iuliia-go"
-},
-{
-"star_count": 57,
-"project": "github.com/psampaz/slice"
-},
-{
-"star_count": 57,
 "project": "github.com/lingrino/vaku/v2"
+},
+{
+"star_count": 56,
+"project": "github.com/wzshiming/ctc"
 },
 {
 "star_count": 56,
@@ -6525,10 +6529,6 @@
 {
 "star_count": 56,
 "project": "github.com/hishamkaram/gismanager/v2"
-},
-{
-"star_count": 56,
-"project": "github.com/wzshiming/ctc"
 },
 {
 "star_count": 55,
@@ -6544,19 +6544,19 @@
 },
 {
 "star_count": 55,
-"project": "github.com/miolini/datacounter"
-},
-{
-"star_count": 55,
 "project": "github.com/gotidy/copy"
 },
 {
 "star_count": 55,
-"project": "github.com/elgopher/pi"
+"project": "github.com/miolini/datacounter"
 },
 {
 "star_count": 55,
 "project": "github.com/jschoedt/go-firestorm"
+},
+{
+"star_count": 55,
+"project": "github.com/elgopher/pi"
 },
 {
 "star_count": 54,
@@ -6580,11 +6580,11 @@
 },
 {
 "star_count": 53,
-"project": "github.com/shockerli/cvt"
+"project": "github.com/go-oas/docs"
 },
 {
 "star_count": 53,
-"project": "github.com/go-oas/docs"
+"project": "github.com/shockerli/cvt"
 },
 {
 "star_count": 53,
@@ -6608,15 +6608,7 @@
 },
 {
 "star_count": 53,
-"project": "github.com/aofei/sandid"
-},
-{
-"star_count": 53,
 "project": "github.com/tomlazar/table"
-},
-{
-"star_count": 53,
-"project": "github.com/ahmedakef/gotutor"
 },
 {
 "star_count": 53,
@@ -6625,6 +6617,14 @@
 {
 "star_count": 53,
 "project": "github.com/nwillc/genfuncs"
+},
+{
+"star_count": 53,
+"project": "github.com/aofei/sandid"
+},
+{
+"star_count": 53,
+"project": "github.com/ahmedakef/gotutor"
 },
 {
 "star_count": 52,
@@ -6660,15 +6660,15 @@
 },
 {
 "star_count": 52,
-"project": "github.com/neilotoole/jsoncolor"
-},
-{
-"star_count": 52,
 "project": "github.com/polera/gonameparts"
 },
 {
 "star_count": 52,
 "project": "github.com/antham/yogo/v4"
+},
+{
+"star_count": 52,
+"project": "github.com/neilotoole/jsoncolor"
 },
 {
 "star_count": 51,
@@ -6692,6 +6692,10 @@
 },
 {
 "star_count": 51,
+"project": "github.com/khezen/avro"
+},
+{
+"star_count": 51,
 "project": "github.com/edouard-claude/snip"
 },
 {
@@ -6707,16 +6711,12 @@
 "project": "github.com/sakirsensoy/genv"
 },
 {
-"star_count": 51,
-"project": "github.com/khezen/avro"
+"star_count": 50,
+"project": "github.com/the4thamigo-uk/conflate"
 },
 {
 "star_count": 50,
 "project": "github.com/srfrog/dict"
-},
-{
-"star_count": 50,
-"project": "github.com/the4thamigo-uk/conflate"
 },
 {
 "star_count": 50,
@@ -6732,19 +6732,11 @@
 },
 {
 "star_count": 50,
+"project": "github.com/avito-tech/normalize"
+},
+{
+"star_count": 50,
 "project": "github.com/s0ders/go-semver-release/v8"
-},
-{
-"star_count": 50,
-"project": "github.com/krotik/ecal"
-},
-{
-"star_count": 50,
-"project": "github.com/k-capehart/go-salesforce/v3"
-},
-{
-"star_count": 50,
-"project": "github.com/rookie-ninja/rk-gin/v2"
 },
 {
 "star_count": 50,
@@ -6756,7 +6748,15 @@
 },
 {
 "star_count": 50,
-"project": "github.com/avito-tech/normalize"
+"project": "github.com/rookie-ninja/rk-gin/v2"
+},
+{
+"star_count": 50,
+"project": "github.com/krotik/ecal"
+},
+{
+"star_count": 50,
+"project": "github.com/k-capehart/go-salesforce/v3"
 },
 {
 "star_count": 50,
@@ -6772,6 +6772,10 @@
 },
 {
 "star_count": 49,
+"project": "github.com/didi/gendry"
+},
+{
+"star_count": 49,
 "project": "github.com/dsbasko/go-cfg"
 },
 {
@@ -6784,23 +6788,19 @@
 },
 {
 "star_count": 49,
-"project": "github.com/jfilipczyk/gomatch"
-},
-{
-"star_count": 49,
-"project": "github.com/nullne/evaluator"
-},
-{
-"star_count": 49,
-"project": "github.com/didi/gendry"
-},
-{
-"star_count": 49,
 "project": "github.com/artyom/autoflags"
 },
 {
 "star_count": 49,
 "project": "github.com/Konstantin8105/f4go"
+},
+{
+"star_count": 49,
+"project": "github.com/jfilipczyk/gomatch"
+},
+{
+"star_count": 49,
+"project": "github.com/nullne/evaluator"
 },
 {
 "star_count": 48,
@@ -6812,11 +6812,11 @@
 },
 {
 "star_count": 48,
-"project": "github.com/SaiNageswarS/go-api-boot"
+"project": "github.com/goradd/maps"
 },
 {
 "star_count": 48,
-"project": "github.com/goradd/maps"
+"project": "github.com/SaiNageswarS/go-api-boot"
 },
 {
 "star_count": 47,
@@ -6828,15 +6828,15 @@
 },
 {
 "star_count": 47,
+"project": "github.com/alexsergivan/transliterator"
+},
+{
+"star_count": 47,
 "project": "github.com/antham/ghokin/v3"
 },
 {
 "star_count": 47,
 "project": "github.com/jfrog/froggit-go"
-},
-{
-"star_count": 47,
-"project": "github.com/alexsergivan/transliterator"
 },
 {
 "star_count": 46,
@@ -6852,19 +6852,19 @@
 },
 {
 "star_count": 46,
-"project": "github.com/e-XpertSolutions/go-cluster/v2"
-},
-{
-"star_count": 46,
 "project": "github.com/xgzlucario/rotom"
 },
 {
-"star_count": 45,
-"project": "github.com/jxskiss/mcli"
+"star_count": 46,
+"project": "github.com/e-XpertSolutions/go-cluster/v2"
 },
 {
 "star_count": 45,
 "project": "github.com/ufoscout/go-up"
+},
+{
+"star_count": 45,
+"project": "github.com/jxskiss/mcli"
 },
 {
 "star_count": 45,
@@ -6908,27 +6908,15 @@
 },
 {
 "star_count": 43,
-"project": "github.com/NodePassProject/nodepass"
-},
-{
-"star_count": 43,
 "project": "github.com/viant/dsc"
 },
 {
 "star_count": 43,
+"project": "github.com/NodePassProject/nodepass"
+},
+{
+"star_count": 43,
 "project": "github.com/sgrodriguez/ddt"
-},
-{
-"star_count": 43,
-"project": "github.com/adlio/schema"
-},
-{
-"star_count": 43,
-"project": "github.com/netresearch/ofelia"
-},
-{
-"star_count": 43,
-"project": "github.com/ansd/lastpass-go"
 },
 {
 "star_count": 43,
@@ -6939,8 +6927,24 @@
 "project": "github.com/onrik/micha"
 },
 {
+"star_count": 43,
+"project": "github.com/ansd/lastpass-go"
+},
+{
+"star_count": 43,
+"project": "github.com/netresearch/ofelia"
+},
+{
+"star_count": 43,
+"project": "github.com/adlio/schema"
+},
+{
 "star_count": 42,
 "project": "github.com/twharmon/gosql"
+},
+{
+"star_count": 42,
+"project": "github.com/codingconcepts/dg"
 },
 {
 "star_count": 42,
@@ -6949,10 +6953,6 @@
 {
 "star_count": 42,
 "project": "github.com/sashamelentyev/usestdlibvars"
-},
-{
-"star_count": 42,
-"project": "github.com/codingconcepts/dg"
 },
 {
 "star_count": 42,
@@ -6988,7 +6988,7 @@
 },
 {
 "star_count": 40,
-"project": "github.com/s0rg/fantasyname"
+"project": "github.com/mainak55512/stto"
 },
 {
 "star_count": 40,
@@ -6996,7 +6996,7 @@
 },
 {
 "star_count": 40,
-"project": "github.com/mainak55512/stto"
+"project": "github.com/s0rg/fantasyname"
 },
 {
 "star_count": 39,
@@ -7012,11 +7012,11 @@
 },
 {
 "star_count": 39,
-"project": "github.com/elliotwutingfeng/go-fasttld"
+"project": "github.com/jvcoutinho/lit"
 },
 {
 "star_count": 39,
-"project": "github.com/jvcoutinho/lit"
+"project": "github.com/elliotwutingfeng/go-fasttld"
 },
 {
 "star_count": 39,
@@ -7064,11 +7064,7 @@
 },
 {
 "star_count": 37,
-"project": "github.com/rekby/fixenv"
-},
-{
-"star_count": 37,
-"project": "github.com/kazhuravlev/just"
+"project": "github.com/leaanthony/debme"
 },
 {
 "star_count": 37,
@@ -7076,11 +7072,15 @@
 },
 {
 "star_count": 37,
-"project": "github.com/HazelnutParadise/insyra"
+"project": "github.com/kazhuravlev/just"
 },
 {
 "star_count": 37,
-"project": "github.com/leaanthony/debme"
+"project": "github.com/rekby/fixenv"
+},
+{
+"star_count": 37,
+"project": "github.com/HazelnutParadise/insyra"
 },
 {
 "star_count": 36,
@@ -7116,11 +7116,11 @@
 },
 {
 "star_count": 35,
-"project": "go-simpler.org/env"
+"project": "github.com/atelpis/enflag"
 },
 {
 "star_count": 35,
-"project": "github.com/atelpis/enflag"
+"project": "go-simpler.org/env"
 },
 {
 "star_count": 35,
@@ -7136,15 +7136,15 @@
 },
 {
 "star_count": 35,
+"project": "github.com/HnH/qry"
+},
+{
+"star_count": 35,
 "project": "github.com/nikolaydubina/fpdecimal"
 },
 {
 "star_count": 35,
 "project": "github.com/blinklabs-io/nview"
-},
-{
-"star_count": 35,
-"project": "github.com/HnH/qry"
 },
 {
 "star_count": 35,
@@ -7172,11 +7172,11 @@
 },
 {
 "star_count": 34,
-"project": "github.com/ddelizia/channelify"
+"project": "github.com/timdp/lwc"
 },
 {
 "star_count": 34,
-"project": "github.com/timdp/lwc"
+"project": "github.com/ddelizia/channelify"
 },
 {
 "star_count": 34,
@@ -7212,15 +7212,11 @@
 },
 {
 "star_count": 33,
-"project": "github.com/sgreben/piecewiselinear"
-},
-{
-"star_count": 33,
 "project": "zssh"
 },
 {
-"star_count": 32,
-"project": "github.com/gogpu/wgpu"
+"star_count": 33,
+"project": "github.com/sgreben/piecewiselinear"
 },
 {
 "star_count": 32,
@@ -7229,6 +7225,10 @@
 {
 "star_count": 32,
 "project": "github.com/rhosocial/go-dag"
+},
+{
+"star_count": 32,
+"project": "github.com/gogpu/wgpu"
 },
 {
 "star_count": 32,
@@ -7244,7 +7244,7 @@
 },
 {
 "star_count": 32,
-"project": "github.com/pascaldekloe/metrics"
+"project": "github.com/mbrostami/consistenthash/v2"
 },
 {
 "star_count": 32,
@@ -7252,7 +7252,11 @@
 },
 {
 "star_count": 32,
-"project": "github.com/mbrostami/consistenthash/v2"
+"project": "github.com/pascaldekloe/metrics"
+},
+{
+"star_count": 31,
+"project": "github.com/nikolaydubina/fpmoney"
 },
 {
 "star_count": 31,
@@ -7261,10 +7265,6 @@
 {
 "star_count": 31,
 "project": "github.com/yuseferi/zax/v2"
-},
-{
-"star_count": 31,
-"project": "github.com/nikolaydubina/fpmoney"
 },
 {
 "star_count": 31,
@@ -7280,15 +7280,15 @@
 },
 {
 "star_count": 31,
+"project": "atomys.codes/webhooked"
+},
+{
+"star_count": 31,
 "project": "github.com/insidieux/inizio"
 },
 {
 "star_count": 31,
 "project": "github.com/soypat/rebed"
-},
-{
-"star_count": 31,
-"project": "atomys.codes/webhooked"
 },
 {
 "star_count": 30,
@@ -7312,6 +7312,10 @@
 },
 {
 "star_count": 30,
+"project": "github.com/chaindead/modup"
+},
+{
+"star_count": 30,
 "project": "github.com/1set/cronrange"
 },
 {
@@ -7323,8 +7327,16 @@
 "project": "github.com/epiclabs-io/elastic"
 },
 {
-"star_count": 30,
-"project": "github.com/chaindead/modup"
+"star_count": 29,
+"project": "github.com/prashantgupta24/activity-tracker"
+},
+{
+"star_count": 29,
+"project": "github.com/rezmoss/axios4go"
+},
+{
+"star_count": 29,
+"project": "github.com/optimus-hft/go-ipmux"
 },
 {
 "star_count": 29,
@@ -7336,23 +7348,11 @@
 },
 {
 "star_count": 29,
-"project": "github.com/rezmoss/axios4go"
-},
-{
-"star_count": 29,
-"project": "github.com/prashantgupta24/activity-tracker"
-},
-{
-"star_count": 29,
-"project": "github.com/optimus-hft/go-ipmux"
+"project": "github.com/hexdigest/execpool"
 },
 {
 "star_count": 29,
 "project": "github.com/jokruger/dec128"
-},
-{
-"star_count": 29,
-"project": "github.com/hexdigest/execpool"
 },
 {
 "star_count": 29,
@@ -7368,11 +7368,19 @@
 },
 {
 "star_count": 29,
+"project": "github.com/wzshiming/httpproxy"
+},
+{
+"star_count": 29,
 "project": "github.com/o1egl/fwencoder"
 },
 {
 "star_count": 29,
-"project": "github.com/wzshiming/httpproxy"
+"project": "github.com/xiaoxin01/typeregistry"
+},
+{
+"star_count": 29,
+"project": "github.com/componego/componego"
 },
 {
 "star_count": 29,
@@ -7381,14 +7389,6 @@
 {
 "star_count": 29,
 "project": "github.com/AsaiYusuke/jsonpath/v2"
-},
-{
-"star_count": 29,
-"project": "github.com/componego/componego"
-},
-{
-"star_count": 29,
-"project": "github.com/xiaoxin01/typeregistry"
 },
 {
 "star_count": 28,
@@ -7404,15 +7404,11 @@
 },
 {
 "star_count": 28,
-"project": "github.com/Wing924/shellwords"
-},
-{
-"star_count": 28,
 "project": "github.com/StudioSol/set"
 },
 {
 "star_count": 28,
-"project": "github.com/twharmon/gouid"
+"project": "github.com/Wing924/shellwords"
 },
 {
 "star_count": 28,
@@ -7421,6 +7417,10 @@
 {
 "star_count": 28,
 "project": "github.com/icelain/jokeapi"
+},
+{
+"star_count": 28,
+"project": "github.com/twharmon/gouid"
 },
 {
 "star_count": 27,
@@ -7508,11 +7508,11 @@
 },
 {
 "star_count": 26,
-"project": "github.com/andskur/argon2-hashing"
+"project": "github.com/1set/todotxt"
 },
 {
 "star_count": 26,
-"project": "github.com/1set/todotxt"
+"project": "github.com/detectlanguage/detectlanguage-go"
 },
 {
 "star_count": 26,
@@ -7520,7 +7520,7 @@
 },
 {
 "star_count": 26,
-"project": "github.com/boxesandglue/bagme"
+"project": "github.com/centerorbit/depcharge"
 },
 {
 "star_count": 26,
@@ -7528,11 +7528,11 @@
 },
 {
 "star_count": 26,
-"project": "github.com/centerorbit/depcharge"
+"project": "github.com/boxesandglue/bagme"
 },
 {
 "star_count": 26,
-"project": "github.com/detectlanguage/detectlanguage-go"
+"project": "github.com/andskur/argon2-hashing"
 },
 {
 "star_count": 25,
@@ -7548,7 +7548,7 @@
 },
 {
 "star_count": 25,
-"project": "github.com/hamed-yousefi/gowl"
+"project": "github.com/larapulse/migrator"
 },
 {
 "star_count": 25,
@@ -7556,11 +7556,7 @@
 },
 {
 "star_count": 25,
-"project": "github.com/larapulse/migrator"
-},
-{
-"star_count": 24,
-"project": "github.com/bcdxn/opencli"
+"project": "github.com/hamed-yousefi/gowl"
 },
 {
 "star_count": 24,
@@ -7569,6 +7565,10 @@
 {
 "star_count": 24,
 "project": "github.com/dastoori/higgs"
+},
+{
+"star_count": 24,
+"project": "github.com/bcdxn/opencli"
 },
 {
 "star_count": 24,
@@ -7588,7 +7588,7 @@
 },
 {
 "star_count": 24,
-"project": "github.com/recolabs/gnata"
+"project": "github.com/vardius/gocontainer"
 },
 {
 "star_count": 24,
@@ -7596,11 +7596,11 @@
 },
 {
 "star_count": 24,
-"project": "github.com/wlevene/ini"
+"project": "github.com/recolabs/gnata"
 },
 {
 "star_count": 24,
-"project": "github.com/vardius/gocontainer"
+"project": "github.com/wlevene/ini"
 },
 {
 "star_count": 23,
@@ -7644,11 +7644,11 @@
 },
 {
 "star_count": 22,
-"project": "github.com/bobg/modver/v2"
+"project": "github.com/wk30/xj2go"
 },
 {
 "star_count": 22,
-"project": "github.com/wk30/xj2go"
+"project": "github.com/bobg/modver/v2"
 },
 {
 "star_count": 22,
@@ -7664,11 +7664,11 @@
 },
 {
 "star_count": 22,
-"project": "github.com/agext/uuid"
+"project": "github.com/wangyoucao577/go-project-layout"
 },
 {
 "star_count": 22,
-"project": "github.com/wangyoucao577/go-project-layout"
+"project": "github.com/agext/uuid"
 },
 {
 "star_count": 22,
@@ -7680,7 +7680,7 @@
 },
 {
 "star_count": 22,
-"project": "github.com/samber/slog-slack/v2"
+"project": "github.com/fogfish/dynamo/v3"
 },
 {
 "star_count": 22,
@@ -7688,15 +7688,15 @@
 },
 {
 "star_count": 22,
-"project": "github.com/fogfish/dynamo/v3"
-},
-{
-"star_count": 22,
 "project": "github.com/dwin/goArgonPass"
 },
 {
 "star_count": 22,
-"project": "github.com/RichardKnop/minisql"
+"project": "github.com/mirecl/catboost-cgo"
+},
+{
+"star_count": 22,
+"project": "github.com/samber/slog-slack/v2"
 },
 {
 "star_count": 22,
@@ -7704,7 +7704,7 @@
 },
 {
 "star_count": 22,
-"project": "github.com/mirecl/catboost-cgo"
+"project": "github.com/RichardKnop/minisql"
 },
 {
 "star_count": 21,
@@ -7712,11 +7712,11 @@
 },
 {
 "star_count": 21,
-"project": "github.com/xybor-x/xylog"
+"project": "github.com/xxjwxc/gofal"
 },
 {
 "star_count": 21,
-"project": "github.com/xxjwxc/gofal"
+"project": "github.com/xybor-x/xylog"
 },
 {
 "star_count": 21,
@@ -7724,19 +7724,19 @@
 },
 {
 "star_count": 21,
-"project": "github.com/s0rg/grid"
-},
-{
-"star_count": 21,
 "project": "github.com/floatdrop/debounce"
 },
 {
 "star_count": 21,
-"project": "github.com/ferro-labs/ai-gateway"
+"project": "github.com/s0rg/grid"
 },
 {
 "star_count": 21,
 "project": "github.com/GuilhermeCaruso/mooncake"
+},
+{
+"star_count": 21,
+"project": "github.com/ferro-labs/ai-gateway"
 },
 {
 "star_count": 21,
@@ -7760,11 +7760,11 @@
 },
 {
 "star_count": 20,
-"project": "github.com/ITcathyh/conexec"
+"project": "github.com/chainifynet/aws-encryption-sdk-go"
 },
 {
 "star_count": 20,
-"project": "github.com/chainifynet/aws-encryption-sdk-go"
+"project": "github.com/ITcathyh/conexec"
 },
 {
 "star_count": 20,
@@ -7792,11 +7792,11 @@
 },
 {
 "star_count": 20,
-"project": "github.com/corbym/gogiven"
+"project": "github.com/circa10a/go-aws-news"
 },
 {
 "star_count": 20,
-"project": "github.com/circa10a/go-aws-news"
+"project": "github.com/corbym/gogiven"
 },
 {
 "star_count": 20,
@@ -7824,7 +7824,7 @@
 },
 {
 "star_count": 20,
-"project": "github.com/leberKleber/go-mpris"
+"project": "github.com/Kairum-Labs/should"
 },
 {
 "star_count": 20,
@@ -7839,24 +7839,12 @@
 "project": "github.com/clok/kemba"
 },
 {
-"star_count": 19,
-"project": "github.com/ceshihao/windowsupdate"
+"star_count": 20,
+"project": "github.com/leberKleber/go-mpris"
 },
 {
 "star_count": 19,
-"project": "github.com/FrancoLiberali/cql"
-},
-{
-"star_count": 19,
-"project": "github.com/muir/nchi"
-},
-{
-"star_count": 19,
-"project": "github.com/codeship/codeship-go"
-},
-{
-"star_count": 19,
-"project": "github.com/Kairum-Labs/should"
+"project": "github.com/krayzpipes/cronticker"
 },
 {
 "star_count": 19,
@@ -7865,10 +7853,6 @@
 {
 "star_count": 19,
 "project": "github.com/romshark/yamagiconf"
-},
-{
-"star_count": 19,
-"project": "github.com/krayzpipes/cronticker"
 },
 {
 "star_count": 19,
@@ -7892,7 +7876,7 @@
 },
 {
 "star_count": 19,
-"project": "github.com/OTA-Insight/bqwriter"
+"project": "github.com/dnnrly/wait-for"
 },
 {
 "star_count": 19,
@@ -7900,11 +7884,27 @@
 },
 {
 "star_count": 19,
-"project": "github.com/dnnrly/wait-for"
+"project": "github.com/phelmkamp/valor"
 },
 {
 "star_count": 19,
-"project": "github.com/phelmkamp/valor"
+"project": "github.com/muir/nchi"
+},
+{
+"star_count": 19,
+"project": "github.com/FrancoLiberali/cql"
+},
+{
+"star_count": 19,
+"project": "github.com/OTA-Insight/bqwriter"
+},
+{
+"star_count": 19,
+"project": "github.com/codeship/codeship-go"
+},
+{
+"star_count": 19,
+"project": "github.com/ceshihao/windowsupdate"
 },
 {
 "star_count": 18,
@@ -7912,11 +7912,11 @@
 },
 {
 "star_count": 18,
-"project": "github.com/tiendc/go-csvlib"
+"project": "github.com/faabiosr/echo-middleware"
 },
 {
 "star_count": 18,
-"project": "github.com/faabiosr/echo-middleware"
+"project": "github.com/tiendc/go-csvlib"
 },
 {
 "star_count": 18,
@@ -7948,11 +7948,11 @@
 },
 {
 "star_count": 18,
-"project": "github.com/cocoonspace/dynjson"
+"project": "github.com/sortie-ai/sortie"
 },
 {
 "star_count": 18,
-"project": "github.com/sortie-ai/sortie"
+"project": "github.com/cocoonspace/dynjson"
 },
 {
 "star_count": 17,
@@ -7976,7 +7976,7 @@
 },
 {
 "star_count": 17,
-"project": "github.com/shafreeck/retry"
+"project": "github.com/LimeChain/gosemble"
 },
 {
 "star_count": 17,
@@ -7984,7 +7984,7 @@
 },
 {
 "star_count": 17,
-"project": "github.com/LimeChain/gosemble"
+"project": "github.com/shafreeck/retry"
 },
 {
 "star_count": 16,
@@ -8012,7 +8012,7 @@
 },
 {
 "star_count": 16,
-"project": "github.com/ddymko/go-jsonerror"
+"project": "github.com/chmike/varint"
 },
 {
 "star_count": 16,
@@ -8020,7 +8020,7 @@
 },
 {
 "star_count": 16,
-"project": "github.com/chmike/varint"
+"project": "github.com/ddymko/go-jsonerror"
 },
 {
 "star_count": 16,
@@ -8036,23 +8036,7 @@
 },
 {
 "star_count": 15,
-"project": "github.com/sinhashubham95/moxy"
-},
-{
-"star_count": 15,
-"project": "github.com/dinopuguh/gosentiwordnet/v2"
-},
-{
-"star_count": 15,
-"project": "github.com/kachit/gorm-seeder"
-},
-{
-"star_count": 15,
-"project": "github.com/dimuska139/rawg-sdk-go/v3"
-},
-{
-"star_count": 15,
-"project": "github.com/GiGurra/boa"
+"project": "github.com/jackc/pgx/v5"
 },
 {
 "star_count": 15,
@@ -8064,31 +8048,27 @@
 },
 {
 "star_count": 15,
+"project": "github.com/dimuska139/rawg-sdk-go/v3"
+},
+{
+"star_count": 15,
+"project": "github.com/GiGurra/boa"
+},
+{
+"star_count": 15,
 "project": "github.com/esurdam/go-sophos"
 },
 {
 "star_count": 15,
-"project": "github.com/jackc/pgx/v5"
+"project": "github.com/sinhashubham95/moxy"
 },
 {
-"star_count": 14,
-"project": "github.com/huydang284/fixedwidth"
+"star_count": 15,
+"project": "github.com/dinopuguh/gosentiwordnet/v2"
 },
 {
-"star_count": 14,
-"project": "github.com/bitfield/qrand"
-},
-{
-"star_count": 14,
-"project": "github.com/zenthangplus/go-workerpool"
-},
-{
-"star_count": 14,
-"project": "github.com/phoenix-tui/phoenix"
-},
-{
-"star_count": 14,
-"project": "github.com/prashantgupta24/go-clip"
+"star_count": 15,
+"project": "github.com/kachit/gorm-seeder"
 },
 {
 "star_count": 14,
@@ -8120,7 +8100,7 @@
 },
 {
 "star_count": 14,
-"project": "github.com/zerosnake0/jzon"
+"project": "github.com/alesr/templator"
 },
 {
 "star_count": 14,
@@ -8128,11 +8108,7 @@
 },
 {
 "star_count": 14,
-"project": "github.com/alesr/templator"
-},
-{
-"star_count": 14,
-"project": "github.com/lawzava/go-pg-migrate/v2"
+"project": "github.com/zerosnake0/jzon"
 },
 {
 "star_count": 14,
@@ -8140,11 +8116,31 @@
 },
 {
 "star_count": 14,
+"project": "github.com/prashantgupta24/go-clip"
+},
+{
+"star_count": 14,
+"project": "github.com/phoenix-tui/phoenix"
+},
+{
+"star_count": 14,
+"project": "github.com/huydang284/fixedwidth"
+},
+{
+"star_count": 14,
+"project": "github.com/bitfield/qrand"
+},
+{
+"star_count": 14,
 "project": "github.com/osamingo/shamoji"
 },
 {
-"star_count": 13,
-"project": "github.com/duanckham/hands"
+"star_count": 14,
+"project": "github.com/lawzava/go-pg-migrate/v2"
+},
+{
+"star_count": 14,
+"project": "github.com/zenthangplus/go-workerpool"
 },
 {
 "star_count": 13,
@@ -8152,11 +8148,15 @@
 },
 {
 "star_count": 13,
-"project": "github.com/sinhashubham95/jsonic"
+"project": "github.com/elgohr/stop-and-go"
 },
 {
 "star_count": 13,
-"project": "github.com/elgohr/stop-and-go"
+"project": "github.com/duanckham/hands"
+},
+{
+"star_count": 13,
+"project": "github.com/sinhashubham95/jsonic"
 },
 {
 "star_count": 13,
@@ -8192,7 +8192,15 @@
 },
 {
 "star_count": 13,
-"project": "github.com/khezen/rootfinding"
+"project": "github.com/rajnandan1/go-tripper"
+},
+{
+"star_count": 13,
+"project": "github.com/keilerkonzept/topk"
+},
+{
+"star_count": 13,
+"project": "github.com/kjkrol/goke/v3"
 },
 {
 "star_count": 13,
@@ -8204,15 +8212,7 @@
 },
 {
 "star_count": 13,
-"project": "github.com/bobg/subcmd/v2"
-},
-{
-"star_count": 13,
-"project": "github.com/rajnandan1/go-tripper"
-},
-{
-"star_count": 13,
-"project": "github.com/kjkrol/goke/v3"
+"project": "github.com/khezen/rootfinding"
 },
 {
 "star_count": 13,
@@ -8220,11 +8220,11 @@
 },
 {
 "star_count": 13,
-"project": "github.com/keilerkonzept/topk"
+"project": "github.com/CalebQ42/bbConvert"
 },
 {
 "star_count": 13,
-"project": "github.com/CalebQ42/bbConvert"
+"project": "github.com/bobg/subcmd/v2"
 },
 {
 "star_count": 12,
@@ -8248,11 +8248,11 @@
 },
 {
 "star_count": 12,
-"project": "github.com/xuri/excelize/v2"
+"project": "go-json-benchmark"
 },
 {
 "star_count": 12,
-"project": "go-json-benchmark"
+"project": "github.com/xuri/excelize/v2"
 },
 {
 "star_count": 12,
@@ -8268,10 +8268,6 @@
 },
 {
 "star_count": 12,
-"project": "github.com/janiltonmaciel/statiks"
-},
-{
-"star_count": 12,
 "project": "github.com/stoewer/go-week"
 },
 {
@@ -8281,6 +8277,10 @@
 {
 "star_count": 12,
 "project": "github.com/lucassscaravelli/ej"
+},
+{
+"star_count": 12,
+"project": "github.com/janiltonmaciel/statiks"
 },
 {
 "star_count": 12,
@@ -8296,19 +8296,27 @@
 },
 {
 "star_count": 12,
-"project": "github.com/staskobzar/goagi"
-},
-{
-"star_count": 12,
 "project": "github.com/vcaesar/tt"
 },
 {
 "star_count": 12,
-"project": "github.com/pieterclaerhout/go-log"
+"project": "github.com/a2800276/porter"
 },
 {
 "star_count": 12,
 "project": "github.com/netresearch/go-cron"
+},
+{
+"star_count": 12,
+"project": "github.com/wneessen/go-hibp"
+},
+{
+"star_count": 12,
+"project": "github.com/staskobzar/goagi"
+},
+{
+"star_count": 12,
+"project": "github.com/go-kata/kinit"
 },
 {
 "star_count": 12,
@@ -8320,19 +8328,19 @@
 },
 {
 "star_count": 12,
-"project": "github.com/wneessen/go-hibp"
-},
-{
-"star_count": 12,
-"project": "github.com/a2800276/porter"
-},
-{
-"star_count": 12,
-"project": "github.com/go-kata/kinit"
+"project": "github.com/pieterclaerhout/go-log"
 },
 {
 "star_count": 11,
-"project": "github.com/go-webgpu/goffi"
+"project": "github.com/koss-null/list"
+},
+{
+"star_count": 11,
+"project": "github.com/dnnrly/hoofli"
+},
+{
+"star_count": 11,
+"project": "github.com/seanhagen/bradleyterry"
 },
 {
 "star_count": 11,
@@ -8344,19 +8352,27 @@
 },
 {
 "star_count": 11,
+"project": "github.com/cheshir/ttlcache"
+},
+{
+"star_count": 11,
+"project": "github.com/go-webgpu/goffi"
+},
+{
+"star_count": 11,
+"project": "github.com/aerogo/log"
+},
+{
+"star_count": 11,
+"project": "github.com/zerosnake0/goctx"
+},
+{
+"star_count": 11,
 "project": "github.com/enterpilot/gomodel"
 },
 {
 "star_count": 11,
 "project": "github.com/matveynator/chicha-isotope-map"
-},
-{
-"star_count": 11,
-"project": "github.com/koss-null/list"
-},
-{
-"star_count": 11,
-"project": "github.com/dnnrly/hoofli"
 },
 {
 "star_count": 11,
@@ -8379,32 +8395,16 @@
 "project": "github.com/nxdir-s/pipelines"
 },
 {
-"star_count": 11,
-"project": "github.com/seanhagen/bradleyterry"
-},
-{
-"star_count": 11,
-"project": "github.com/cheshir/ttlcache"
-},
-{
-"star_count": 11,
-"project": "github.com/aerogo/log"
-},
-{
-"star_count": 11,
-"project": "github.com/zerosnake0/goctx"
-},
-{
-"star_count": 10,
-"project": "github.com/osteele/tuesday"
-},
-{
 "star_count": 10,
 "project": "github.com/clevabit/libgoffi"
 },
 {
 "star_count": 10,
 "project": "github.com/bmf-san/gondola"
+},
+{
+"star_count": 10,
+"project": "github.com/osteele/tuesday"
 },
 {
 "star_count": 10,
@@ -8448,7 +8448,7 @@
 },
 {
 "star_count": 10,
-"project": "github.com/schigh/health/v2"
+"project": "github.com/chenquan/go-pkg"
 },
 {
 "star_count": 10,
@@ -8456,11 +8456,11 @@
 },
 {
 "star_count": 10,
-"project": "github.com/chenquan/go-pkg"
+"project": "github.com/naughtygopher/webgo/v7"
 },
 {
 "star_count": 10,
-"project": "github.com/jorelosorio/web-mercator-projection"
+"project": "github.com/chriscross0/go-restcountries/v2"
 },
 {
 "star_count": 10,
@@ -8472,31 +8472,11 @@
 },
 {
 "star_count": 10,
-"project": "github.com/naughtygopher/webgo/v7"
+"project": "github.com/schigh/health/v2"
 },
 {
 "star_count": 10,
-"project": "github.com/chriscross0/go-restcountries/v2"
-},
-{
-"star_count": 9,
-"project": "github.com/maargenton/go-testpredicate"
-},
-{
-"star_count": 9,
-"project": "github.com/Wing924/ltsv"
-},
-{
-"star_count": 9,
-"project": "github.com/small-teton/mpeg-ts-analyzer/v2"
-},
-{
-"star_count": 9,
-"project": "github.com/go-the-way/sg"
-},
-{
-"star_count": 9,
-"project": "github.com/NdoleStudio/httpsms-go"
+"project": "github.com/jorelosorio/web-mercator-projection"
 },
 {
 "star_count": 9,
@@ -8508,7 +8488,7 @@
 },
 {
 "star_count": 9,
-"project": "github.com/go-the-way/validator"
+"project": "github.com/nar10z/go-accumulator/v2"
 },
 {
 "star_count": 9,
@@ -8516,11 +8496,23 @@
 },
 {
 "star_count": 9,
-"project": "github.com/nar10z/go-accumulator/v2"
+"project": "github.com/go-the-way/validator"
 },
 {
 "star_count": 9,
 "project": "github.com/saleh-rahimzadeh/go-words"
+},
+{
+"star_count": 9,
+"project": "github.com/go-the-way/sg"
+},
+{
+"star_count": 9,
+"project": "github.com/NdoleStudio/httpsms-go"
+},
+{
+"star_count": 9,
+"project": "github.com/maargenton/go-testpredicate"
 },
 {
 "star_count": 9,
@@ -8552,7 +8544,7 @@
 },
 {
 "star_count": 9,
-"project": "github.com/naughtygopher/errors"
+"project": "github.com/Wing924/ltsv"
 },
 {
 "star_count": 9,
@@ -8560,15 +8552,15 @@
 },
 {
 "star_count": 9,
-"project": "github.com/kazu/loncha"
-},
-{
-"star_count": 9,
-"project": "github.com/antst/go-apispec"
+"project": "github.com/small-teton/mpeg-ts-analyzer/v2"
 },
 {
 "star_count": 9,
 "project": "github.com/vkuznet/x509proxy"
+},
+{
+"star_count": 9,
+"project": "github.com/naughtygopher/errors"
 },
 {
 "star_count": 9,
@@ -8577,6 +8569,14 @@
 {
 "star_count": 9,
 "project": "github.com/balajz/pgxcli"
+},
+{
+"star_count": 9,
+"project": "github.com/kazu/loncha"
+},
+{
+"star_count": 9,
+"project": "github.com/antst/go-apispec"
 },
 {
 "star_count": 8,
@@ -8604,11 +8604,19 @@
 },
 {
 "star_count": 8,
+"project": "github.com/vibridi/gomock/v3"
+},
+{
+"star_count": 8,
 "project": "github.com/hedzr/store"
 },
 {
 "star_count": 8,
-"project": "github.com/vibridi/gomock/v3"
+"project": "github.com/gopherlibs/appindicator"
+},
+{
+"star_count": 8,
+"project": "github.com/pgrwl/pgrwl"
 },
 {
 "star_count": 8,
@@ -8619,12 +8627,20 @@
 "project": "github.com/echocat/slf4g"
 },
 {
-"star_count": 8,
-"project": "github.com/gopherlibs/appindicator"
+"star_count": 7,
+"project": "github.com/doors-dev/gox"
 },
 {
-"star_count": 8,
-"project": "github.com/pgrwl/pgrwl"
+"star_count": 7,
+"project": "github.com/PumpkinSeed/errors"
+},
+{
+"star_count": 7,
+"project": "github.com/jgroeneveld/trial"
+},
+{
+"star_count": 7,
+"project": "github.com/enetx/fsm"
 },
 {
 "star_count": 7,
@@ -8655,20 +8671,60 @@
 "project": "github.com/coregx/ahocorasick"
 },
 {
-"star_count": 7,
-"project": "github.com/doors-dev/gox"
+"star_count": 6,
+"project": "github.com/mmadfox/go-geojson2h3"
 },
 {
-"star_count": 7,
-"project": "github.com/jgroeneveld/trial"
+"star_count": 6,
+"project": "github.com/syntaqx/env"
 },
 {
-"star_count": 7,
-"project": "github.com/PumpkinSeed/errors"
+"star_count": 6,
+"project": "github.com/navidys/gopensky"
 },
 {
-"star_count": 7,
-"project": "github.com/enetx/fsm"
+"star_count": 6,
+"project": "github.com/bobg/basexx/v2"
+},
+{
+"star_count": 6,
+"project": "github.com/MUlt1mate/protoc-gen-httpgo"
+},
+{
+"star_count": 6,
+"project": "github.com/slipros/roamer"
+},
+{
+"star_count": 6,
+"project": "github.com/reaganiwadha/grapher"
+},
+{
+"star_count": 6,
+"project": "github.com/perimeterx/envite"
+},
+{
+"star_count": 6,
+"project": "github.com/zaba505/gws"
+},
+{
+"star_count": 6,
+"project": "github.com/boxboxjason/sonarqube-client-go/v2"
+},
+{
+"star_count": 6,
+"project": "github.com/peczenyj/xpool"
+},
+{
+"star_count": 6,
+"project": "github.com/alesr/redact"
+},
+{
+"star_count": 6,
+"project": "github.com/andreimerlescu/entpassgen"
+},
+{
+"star_count": 6,
+"project": "github.com/coregx/gxpdf"
 },
 {
 "star_count": 6,
@@ -8684,75 +8740,23 @@
 },
 {
 "star_count": 6,
-"project": "github.com/alesr/redact"
-},
-{
-"star_count": 6,
 "project": "github.com/agilira/flash-flags"
 },
 {
-"star_count": 6,
-"project": "github.com/MUlt1mate/protoc-gen-httpgo"
-},
-{
-"star_count": 6,
-"project": "github.com/slipros/roamer"
-},
-{
-"star_count": 6,
-"project": "github.com/navidys/gopensky"
-},
-{
-"star_count": 6,
-"project": "github.com/andreimerlescu/entpassgen"
-},
-{
-"star_count": 6,
-"project": "github.com/boxboxjason/sonarqube-client-go/v2"
-},
-{
-"star_count": 6,
-"project": "github.com/peczenyj/xpool"
-},
-{
-"star_count": 6,
-"project": "github.com/zaba505/gws"
-},
-{
-"star_count": 6,
-"project": "github.com/bobg/basexx/v2"
-},
-{
-"star_count": 6,
-"project": "github.com/reaganiwadha/grapher"
-},
-{
-"star_count": 6,
-"project": "github.com/perimeterx/envite"
-},
-{
-"star_count": 6,
-"project": "github.com/mmadfox/go-geojson2h3"
-},
-{
-"star_count": 6,
-"project": "github.com/syntaqx/env"
-},
-{
-"star_count": 6,
-"project": "github.com/coregx/gxpdf"
+"star_count": 5,
+"project": "github.com/leodido/structcli"
 },
 {
 "star_count": 5,
-"project": "github.com/bobg/htree/v2"
+"project": "github.com/nikolaydubina/htmlyaml"
 },
 {
 "star_count": 5,
-"project": "github.com/harkaitz/go-faketime"
+"project": "github.com/quantumcycle/metaerr"
 },
 {
 "star_count": 5,
-"project": "github.com/PIMPfiction/govader_backend"
+"project": "github.com/askeladdk/prattle"
 },
 {
 "star_count": 5,
@@ -8760,7 +8764,27 @@
 },
 {
 "star_count": 5,
-"project": "github.com/askeladdk/prattle"
+"project": "github.com/harkaitz/go-faketime"
+},
+{
+"star_count": 5,
+"project": "github.com/KeibiSoft/KeibiDrop"
+},
+{
+"star_count": 5,
+"project": "github.com/bobg/htree/v2"
+},
+{
+"star_count": 5,
+"project": "github.com/mochow13/keen-code"
+},
+{
+"star_count": 5,
+"project": "github.com/PIMPfiction/govader_backend"
+},
+{
+"star_count": 5,
+"project": "github.com/tigusigalpa/kucoin-go"
 },
 {
 "star_count": 5,
@@ -8784,11 +8808,11 @@
 },
 {
 "star_count": 5,
-"project": "github.com/jacobbrewer1/patcher"
+"project": "github.com/arikama/go-mysql-test-container"
 },
 {
 "star_count": 5,
-"project": "github.com/arikama/go-mysql-test-container"
+"project": "github.com/jacobbrewer1/patcher"
 },
 {
 "star_count": 5,
@@ -8803,48 +8827,20 @@
 "project": "github.com/bobg/encid/v2"
 },
 {
-"star_count": 5,
-"project": "github.com/nikolaydubina/htmlyaml"
-},
-{
-"star_count": 5,
-"project": "github.com/tigusigalpa/kucoin-go"
-},
-{
-"star_count": 5,
-"project": "github.com/quantumcycle/metaerr"
-},
-{
-"star_count": 5,
-"project": "github.com/KeibiSoft/KeibiDrop"
-},
-{
-"star_count": 5,
-"project": "github.com/leodido/structcli"
+"star_count": 4,
+"project": "github.com/jonathonwebb/getopt"
 },
 {
 "star_count": 4,
-"project": "github.com/matveynator/netchan/v2"
+"project": "github.com/abemedia/go-don"
 },
 {
 "star_count": 4,
-"project": "github.com/happy-sdk/happy"
+"project": "github.com/matm/go-nowpayments"
 },
 {
 "star_count": 4,
-"project": "github.com/ashwingopalsamy/uuidcheck"
-},
-{
-"star_count": 4,
-"project": "github.com/shinagawa-web/gomarklint/v3"
-},
-{
-"star_count": 4,
-"project": "github.com/deatil/go-datebin"
-},
-{
-"star_count": 4,
-"project": "github.com/esnet/acme-proxy"
+"project": "github.com/RealZimboGuy/gopherflow"
 },
 {
 "star_count": 4,
@@ -8852,11 +8848,7 @@
 },
 {
 "star_count": 4,
-"project": "github.com/tirthpatell/threads-go"
-},
-{
-"star_count": 4,
-"project": "github.com/mochow13/keen-code"
+"project": "github.com/ashwingopalsamy/uuidcheck"
 },
 {
 "star_count": 4,
@@ -8864,7 +8856,31 @@
 },
 {
 "star_count": 4,
+"project": "github.com/happy-sdk/happy"
+},
+{
+"star_count": 4,
+"project": "github.com/esnet/acme-proxy"
+},
+{
+"star_count": 4,
+"project": "github.com/tirthpatell/threads-go"
+},
+{
+"star_count": 4,
+"project": "github.com/matveynator/netchan/v2"
+},
+{
+"star_count": 4,
+"project": "github.com/deatil/go-datebin"
+},
+{
+"star_count": 4,
 "project": "github.com/chonla/cellwalker"
+},
+{
+"star_count": 4,
+"project": "github.com/cynative/cynative"
 },
 {
 "star_count": 4,
@@ -8876,19 +8892,15 @@
 },
 {
 "star_count": 4,
-"project": "github.com/RealZimboGuy/gopherflow"
+"project": "github.com/shinagawa-web/gomarklint/v3"
 },
 {
-"star_count": 4,
-"project": "github.com/matm/go-nowpayments"
+"star_count": 3,
+"project": "github.com/jakehl/goid"
 },
 {
-"star_count": 4,
-"project": "github.com/jonathonwebb/getopt"
-},
-{
-"star_count": 4,
-"project": "github.com/abemedia/go-don"
+"star_count": 3,
+"project": "github.com/aafeher/go-sitemap-parser"
 },
 {
 "star_count": 3,
@@ -8896,15 +8908,15 @@
 },
 {
 "star_count": 3,
-"project": "github.com/lazynop/lazyenv"
+"project": "github.com/MordaTeam/go-config"
 },
 {
 "star_count": 3,
-"project": "github.com/SennovE/qrafter"
+"project": "github.com/pardnchiu/go-jwt"
 },
 {
 "star_count": 3,
-"project": "github.com/pii-shield/pii-shield"
+"project": "github.com/goioc/retro"
 },
 {
 "star_count": 3,
@@ -8916,7 +8928,27 @@
 },
 {
 "star_count": 3,
-"project": "github.com/pardnchiu/go-jwt"
+"project": "github.com/jfcg/yell"
+},
+{
+"star_count": 3,
+"project": "github.com/pii-shield/pii-shield"
+},
+{
+"star_count": 3,
+"project": "github.com/lazynop/lazyenv"
+},
+{
+"star_count": 3,
+"project": "github.com/tigusigalpa/telegram-wallet-go"
+},
+{
+"star_count": 3,
+"project": "github.com/tigusigalpa/manus-ai-go/v2"
+},
+{
+"star_count": 3,
+"project": "github.com/mehrdadrad/mylg"
 },
 {
 "star_count": 3,
@@ -8928,43 +8960,15 @@
 },
 {
 "star_count": 3,
-"project": "github.com/scigolib/matlab"
-},
-{
-"star_count": 3,
-"project": "github.com/MordaTeam/go-config"
-},
-{
-"star_count": 3,
-"project": "github.com/goioc/retro"
-},
-{
-"star_count": 3,
-"project": "github.com/mehrdadrad/mylg"
-},
-{
-"star_count": 3,
-"project": "github.com/datvietvac-techhub/manifestor"
-},
-{
-"star_count": 3,
 "project": "github.com/aplescia-chwy/lets-go"
 },
 {
 "star_count": 3,
-"project": "github.com/go-external-config/go"
+"project": "github.com/scigolib/matlab"
 },
 {
 "star_count": 3,
-"project": "github.com/tigusigalpa/manus-ai-go/v2"
-},
-{
-"star_count": 3,
-"project": "github.com/aafeher/go-sitemap-parser"
-},
-{
-"star_count": 3,
-"project": "github.com/tigusigalpa/telegram-wallet-go"
+"project": "github.com/SennovE/qrafter"
 },
 {
 "star_count": 3,
@@ -8972,7 +8976,7 @@
 },
 {
 "star_count": 3,
-"project": "github.com/jfcg/yell"
+"project": "github.com/datvietvac-techhub/manifestor"
 },
 {
 "star_count": 3,
@@ -8988,11 +8992,11 @@
 },
 {
 "star_count": 3,
-"project": "github.com/tkrop/go-testing"
+"project": "github.com/SharkByteSoftware/go-snk"
 },
 {
 "star_count": 3,
-"project": "github.com/SharkByteSoftware/go-snk"
+"project": "github.com/tkrop/go-testing"
 },
 {
 "star_count": 3,
@@ -9005,6 +9009,10 @@
 {
 "star_count": 3,
 "project": "github.com/coregx/signals"
+},
+{
+"star_count": 3,
+"project": "github.com/go-external-config/go"
 },
 {
 "star_count": 3,
@@ -9023,8 +9031,24 @@
 "project": "github.com/chmenegatti/go-date-fns"
 },
 {
-"star_count": 3,
-"project": "github.com/jakehl/goid"
+"star_count": 2,
+"project": "github.com/maxbolgarin/contem"
+},
+{
+"star_count": 2,
+"project": "github.com/matveynator/gurl"
+},
+{
+"star_count": 2,
+"project": "github.com/speedata/go-lua"
+},
+{
+"star_count": 2,
+"project": "github.com/maxbolgarin/lang"
+},
+{
+"star_count": 2,
+"project": "github.com/psyb0t/go-spamcheck"
 },
 {
 "star_count": 2,
@@ -9032,31 +9056,7 @@
 },
 {
 "star_count": 2,
-"project": "github.com/tigusigalpa/nansen-go"
-},
-{
-"star_count": 2,
-"project": "github.com/zendev-sh/zenflow"
-},
-{
-"star_count": 2,
 "project": "github.com/balinomad/go-mockfs/v2"
-},
-{
-"star_count": 2,
-"project": "github.com/tphakala/go-audio-resampler"
-},
-{
-"star_count": 2,
-"project": "github.com/joakimcarlsson/bonk"
-},
-{
-"star_count": 2,
-"project": "github.com/Hossiy21/razify"
-},
-{
-"star_count": 2,
-"project": "github.com/abusomani/jsonhandlers"
 },
 {
 "star_count": 2,
@@ -9064,7 +9064,19 @@
 },
 {
 "star_count": 2,
-"project": "github.com/jorelosorio/spellingcorrector"
+"project": "github.com/abusomani/jsonhandlers"
+},
+{
+"star_count": 2,
+"project": "github.com/Hossiy21/razify"
+},
+{
+"star_count": 2,
+"project": "github.com/joakimcarlsson/bonk"
+},
+{
+"star_count": 2,
+"project": "github.com/davidbelicza/semantic-search"
 },
 {
 "star_count": 2,
@@ -9076,15 +9088,19 @@
 },
 {
 "star_count": 2,
-"project": "github.com/wisp-trading/wisp"
+"project": "github.com/zendev-sh/zenflow"
 },
 {
 "star_count": 2,
-"project": "github.com/davidbelicza/semantic-search"
+"project": "github.com/jorelosorio/spellingcorrector"
 },
 {
 "star_count": 2,
-"project": "github.com/yuseferi/scheduler"
+"project": "github.com/tphakala/go-audio-resampler"
+},
+{
+"star_count": 2,
+"project": "github.com/tigusigalpa/nansen-go"
 },
 {
 "star_count": 2,
@@ -9092,7 +9108,11 @@
 },
 {
 "star_count": 2,
-"project": "github.com/thousandflowers/skillreaper"
+"project": "github.com/wisp-trading/wisp"
+},
+{
+"star_count": 2,
+"project": "github.com/yuseferi/scheduler"
 },
 {
 "star_count": 2,
@@ -9104,15 +9124,23 @@
 },
 {
 "star_count": 2,
+"project": "github.com/agenticenv/agent-sdk-go"
+},
+{
+"star_count": 2,
 "project": "github.com/Ad3bay0c/routex"
 },
 {
 "star_count": 2,
-"project": "github.com/floatdrop/di"
+"project": "golang.yandex/di"
 },
 {
 "star_count": 2,
 "project": "github.com/tphakala/agy-mcp/v2"
+},
+{
+"star_count": 2,
+"project": "github.com/thousandflowers/skillreaper"
 },
 {
 "star_count": 2,
@@ -9128,107 +9156,47 @@
 },
 {
 "star_count": 2,
-"project": "github.com/agenticenv/agent-sdk-go"
-},
-{
-"star_count": 2,
 "project": "github.com/miladabc/gonfig"
 },
 {
-"star_count": 2,
-"project": "github.com/maxbolgarin/contem"
-},
-{
-"star_count": 2,
-"project": "github.com/psyb0t/go-spamcheck"
-},
-{
-"star_count": 2,
-"project": "github.com/maxbolgarin/lang"
-},
-{
-"star_count": 2,
-"project": "github.com/matveynator/gurl"
-},
-{
-"star_count": 2,
-"project": "github.com/speedata/go-lua"
+"star_count": 1,
+"project": "github.com/kahoon/pending"
 },
 {
 "star_count": 1,
-"project": "github.com/Omibranch/gitty/v2"
+"project": "github.com/monaco-io/request"
 },
 {
 "star_count": 1,
-"project": "github.com/loveleshsharma/gohive"
+"project": "github.com/bobg/combo"
 },
 {
 "star_count": 1,
-"project": "github.com/dinakars777/moody"
+"project": "github.com/tphakala/simd"
 },
 {
 "star_count": 1,
-"project": "github.com/rbmuller/datatrax"
+"project": "github.com/go-external-config/consul"
 },
 {
 "star_count": 1,
-"project": "github.com/psyb0t/servicepack"
+"project": "github.com/ndabAP/entitydebs"
 },
 {
 "star_count": 1,
-"project": "github.com/georgebuilds/anneal"
+"project": "github.com/kslamph/tronlib"
 },
 {
 "star_count": 1,
-"project": "github.com/hrodrig/pgwd"
+"project": "github.com/stanipetrosyan/go-eventbus"
 },
 {
 "star_count": 1,
-"project": "github.com/lyonnee/hmap"
-},
-{
-"star_count": 1,
-"project": "gitlab.com/junevm/cdns"
-},
-{
-"star_count": 1,
-"project": "github.com/kirill-scherba/sqlh"
-},
-{
-"star_count": 1,
-"project": "github.com/tigusigalpa/birdeye-go"
-},
-{
-"star_count": 1,
-"project": "github.com/alib8b8/aflare"
+"project": "github.com/fox-toolkit/fox"
 },
 {
 "star_count": 1,
 "project": "github.com/vinod-morya/fibersse"
-},
-{
-"star_count": 1,
-"project": "github.com/stacktower-io/stacktower"
-},
-{
-"star_count": 1,
-"project": "github.com/naughtygopher/currency/v2"
-},
-{
-"star_count": 1,
-"project": "github.com/matveynator/chicha-ip-proxy"
-},
-{
-"star_count": 1,
-"project": "github.com/tigusigalpa/bitget-go"
-},
-{
-"star_count": 1,
-"project": "github.com/gkoos/confluence2md"
-},
-{
-"star_count": 1,
-"project": "github.com/vodolaz095/dqueue"
 },
 {
 "star_count": 1,
@@ -9240,15 +9208,51 @@
 },
 {
 "star_count": 1,
+"project": "github.com/Omibranch/gitty/v2"
+},
+{
+"star_count": 1,
+"project": "github.com/hrodrig/pgwd"
+},
+{
+"star_count": 1,
+"project": "github.com/dinakars777/moody"
+},
+{
+"star_count": 1,
+"project": "github.com/vodolaz095/dqueue"
+},
+{
+"star_count": 1,
+"project": "github.com/naughtygopher/currency/v2"
+},
+{
+"star_count": 1,
+"project": "github.com/matveynator/chicha-ip-proxy"
+},
+{
+"star_count": 1,
+"project": "github.com/kirill-scherba/sqlh"
+},
+{
+"star_count": 1,
+"project": "github.com/stacktower-io/stacktower"
+},
+{
+"star_count": 1,
+"project": "github.com/tigusigalpa/birdeye-go"
+},
+{
+"star_count": 1,
+"project": "github.com/lyonnee/hmap"
+},
+{
+"star_count": 1,
 "project": "github.com/coregx/relica"
 },
 {
 "star_count": 1,
-"project": "github.com/nicobistolfi/go-postgres-s3-backup"
-},
-{
-"star_count": 1,
-"project": "github.com/go-errr/go"
+"project": "gitlab.com/junevm/cdns"
 },
 {
 "star_count": 1,
@@ -9260,7 +9264,39 @@
 },
 {
 "star_count": 1,
-"project": "github.com/fox-toolkit/fox"
+"project": "github.com/rbmuller/datatrax"
+},
+{
+"star_count": 1,
+"project": "github.com/alib8b8/aflare"
+},
+{
+"star_count": 1,
+"project": "github.com/gkoos/confluence2md"
+},
+{
+"star_count": 1,
+"project": "github.com/tigusigalpa/bitget-go"
+},
+{
+"star_count": 1,
+"project": "github.com/nicobistolfi/go-postgres-s3-backup"
+},
+{
+"star_count": 1,
+"project": "github.com/psyb0t/servicepack"
+},
+{
+"star_count": 1,
+"project": "github.com/georgebuilds/anneal"
+},
+{
+"star_count": 1,
+"project": "github.com/go-errr/go"
+},
+{
+"star_count": 1,
+"project": "github.com/loveleshsharma/gohive"
 },
 {
 "star_count": 1,
@@ -9280,15 +9316,15 @@
 },
 {
 "star_count": 1,
+"project": "github.com/unilibs/uniwidth"
+},
+{
+"star_count": 1,
 "project": "github.com/gjunqueira-sys/ScheduleGate"
 },
 {
 "star_count": 1,
 "project": "github.com/arceus-7/chroma16"
-},
-{
-"star_count": 1,
-"project": "github.com/unilibs/uniwidth"
 },
 {
 "star_count": 1,
@@ -9300,6 +9336,10 @@
 },
 {
 "star_count": 1,
+"project": "github.com/SchwarzDigits/hypermatch/v2"
+},
+{
+"star_count": 1,
 "project": "github.com/rekurt/gost-crypto"
 },
 {
@@ -9308,7 +9348,7 @@
 },
 {
 "star_count": 1,
-"project": "github.com/SchwarzDigits/hypermatch/v2"
+"project": "github.com/MatProGo-dev/MatProInterface.go"
 },
 {
 "star_count": 1,
@@ -9317,10 +9357,6 @@
 {
 "star_count": 1,
 "project": "github.com/maxcnunes/gaper"
-},
-{
-"star_count": 1,
-"project": "github.com/MatProGo-dev/MatProInterface.go"
 },
 {
 "star_count": 1,
@@ -9336,11 +9372,11 @@
 },
 {
 "star_count": 1,
-"project": "github.com/dundee/gdu/v5"
+"project": "github.com/kslamph/teleflow"
 },
 {
 "star_count": 1,
-"project": "github.com/sajjadrabiee/go-constant"
+"project": "github.com/dundee/gdu/v5"
 },
 {
 "star_count": 1,
@@ -9348,7 +9384,7 @@
 },
 {
 "star_count": 1,
-"project": "github.com/kslamph/teleflow"
+"project": "github.com/sajjadrabiee/go-constant"
 },
 {
 "star_count": 1,
@@ -9357,45 +9393,13 @@
 {
 "star_count": 1,
 "project": "github.com/starwalkn/aastro"
-},
-{
-"star_count": 1,
-"project": "github.com/bobg/combo"
-},
-{
-"star_count": 1,
-"project": "github.com/monaco-io/request"
-},
-{
-"star_count": 1,
-"project": "github.com/kslamph/tronlib"
-},
-{
-"star_count": 1,
-"project": "github.com/stanipetrosyan/go-eventbus"
-},
-{
-"star_count": 1,
-"project": "github.com/ndabAP/entitydebs"
-},
-{
-"star_count": 1,
-"project": "github.com/kahoon/pending"
-},
-{
-"star_count": 1,
-"project": "github.com/tphakala/simd"
-},
-{
-"star_count": 1,
-"project": "github.com/go-external-config/consul"
 }
 ],
-"total_rows": 2344,
-"rows_before_limit_at_least": 2344,
+"total_rows": 2345,
+"rows_before_limit_at_least": 2345,
 "statistics": {
-"elapsed": 0.884762861,
-"rows_read": 47408713,
-"bytes_read": 1389304552
+"elapsed": 0.825327656,
+"rows_read": 47418385,
+"bytes_read": 1393956385
 }
 }
